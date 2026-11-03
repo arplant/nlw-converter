@@ -9,6 +9,8 @@ authors = [
 requires-python = ">=3.15"
 dependencies = [
     "pandas>=3.1.0",
+    "cromulent>=1.0.1",
+    "rdflib>=7.6.0",
 ]
 
 [project.scripts]

@@ -1,0 +1,368 @@
+{
+  "@context": {
+    "la": "http://linkedart.eu/vocab/",
+    "@vocab": "http://linkedart.eu/"
+  },
+  "@graph": [
+    {
+      "@id": "http://linkedart.eu/995271998002419",
+      "@type": "la:Artwork",
+      "la:title": "Welsh saints from Welsh churches / Martin Crampin.",
+      "la:creatorImprint": "Crampin, Martin, (Talybont, Ceredigion : Y Lolfa, 2023.)",
+      "la:subject": "Stained glass windows--Wales.;Christian saints--Wales.;Stained glass windows.;Art, Welsh.;Christian saints.;Christian saints in art.;Wales.;Illustrated works.",
+      "la:language": "English"
+    },
+    {
+      "@id": "http://linkedart.eu/995170104802419",
+      "@type": "la:Artwork",
+      "la:title": "Albert de Belleroche (1864-1944) : works from the artist's studio.",
+      "la:creatorImprint": "Liss Llewellyn Fine Art (Gallery), (London : Liss Llewellyn Fine Art, 2024.)",
+      "la:subject": "Belleroche, Albert de,--1864-1944--Catalogues raisonnes.;Belleroche, Albert de,--1864-1944.;Art.;Drawing.;Catalogues raisonneÌs.",
+      "la:language": "English"
+    },
+    {
+      "@id": "http://linkedart.eu/995324009002419",
+      "@type": "la:Artwork",
+      "la:title": "Con moto : (for percussion quartet) / Augusta Read Thomas.",
+      "la:creatorImprint": "Thomas, Augusta Read, ([Monmouth] : Nimbus Music Publishing, [2024])",
+      "la:subject": "Percussion ensembles--Scores and parts.;Art music.;Chamber music.;Scores.;Parts (Music)",
+      "la:language": "No linguistic content"
+    },
+    {
+      "@id": "http://linkedart.eu/995324009102419",
+      "@type": "la:Artwork",
+      "la:title": "The road through Samarkand : for two pianos / George Lloyd.",
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
+      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Music--Manuscripts--Facsimiles.;Piano music (Pianos (2))--Scores.;Facsimiles.;Art music.;Scores.",
+      "la:language": "No linguistic content"
+    },
+    {
+      "@id": "http://linkedart.eu/995324008802419",
+      "@type": "la:Artwork",
+      "la:title": "Eventide : two pianos / [George Lloyd].",
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
+      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Music--Manuscripts--Facsimiles.;Piano music (Pianos (2))--Scores.;Facsimiles.;Art music.;Scores.",
+      "la:language": "No linguistic content"
+    },
+    {
+      "@id": "http://linkedart.eu/995293193602419",
+      "@type": "la:Artwork",
+      "la:title": "Aubade : two pianos / [George Lloyd].",
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
+      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Music--Manuscripts--Facsimiles.;Piano music (Pianos (2))--Scores.;Facsimiles.;Art music.;Scores.",
+      "la:language": "No linguistic content"
+    },
+    {
+      "@id": "http://linkedart.eu/995290392202419",
+      "@type": "la:Artwork",
+      "la:title": "An African shrine : piano / [George Lloyd].",
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
+      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Piano music.;Music--Manuscripts--Facsimiles.;Facsimiles.;Art music.;Scores.",
+      "la:language": "No linguistic content"
+    },
+    {
+      "@id": "http://linkedart.eu/995290392102419",
+      "@type": "la:Artwork",
+      "la:title": "The lily-leaf and the grasshopper : piano / [George Lloyd].",
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
+      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Piano music.;Music--Manuscripts--Facsimiles.;Facsimiles.;Art music.;Scores.",
+      "la:language": "No linguistic content"
+    },
+    {
+      "@id": "http://linkedart.eu/995290391302419",
+      "@type": "la:Artwork",
+      "la:title": "Lullaby : (Intercom baby) : (1987) : piano / [George Lloyd].",
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
+      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Music--Manuscripts--Facsimiles.;Piano music.;Facsimiles.;Art music.;Scores.",
+      "la:language": "No linguistic content"
+    },
+    {
+      "@id": "http://linkedart.eu/995290391202419",
+      "@type": "la:Artwork",
+      "la:title": "The road through Samarkand : (1972) : piano / [George Lloyd].",
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
+      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Music--Manuscripts--Facsimiles.;Piano music.;Facsimiles.;Art music.;Scores.",
+      "la:language": "No linguistic content"
+    },
+    {
+      "@id": "http://linkedart.eu/995290391102419",
+      "@type": "la:Artwork",
+      "la:title": "St. Antony and the beggar : piano / [George Lloyd].",
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
+      "la:subject": "Piano music.;Art music.;Scores.",
+      "la:language": "No linguistic content"
+    },
+    {
+      "@id": "http://linkedart.eu/995290391002419",
+      "@type": "la:Artwork",
+      "la:title": "The aggressive fishes : piano / [George Lloyd].",
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
+      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Piano music.;Music--Manuscripts--Facsimiles.;Facsimiles.;Art music.;Scores.",
+      "la:language": "No linguistic content"
+    },
+    {
+      "@id": "http://linkedart.eu/995290390902419",
+      "@type": "la:Artwork",
+      "la:title": "The transformation of that naked ape : for piano / George Lloyd.",
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
+      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Music--Manuscripts--Facsimiles.;Piano music.;Facsimiles.;Art music.;Scores.",
+      "la:language": "No linguistic content"
+    },
+    {
+      "@id": "http://linkedart.eu/995170008202419",
+      "@type": "la:Artwork",
+      "la:title": "The tomb guardians / Paul Griffiths.",
+      "la:creatorImprint": "Griffiths, Paul, (London : Henningham Family Press, 2021.)",
+      "la:subject": "Strigel, Bernhard,--1460 or 1461-1528--Fiction.;Strigel, Bernhard,--1460 or 1461-1528.;Art, Renaissance.;Fiction.",
+      "la:language": "English"
+    },
+    {
+      "@id": "http://linkedart.eu/995219338302419",
+      "@type": "la:Artwork",
+      "la:title": "Miners imprint.",
+      "la:creatorImprint": "Swansea University, (Swansea : Swansea University in collaboration with Swansea Print Workshop, 2024.)",
+      "la:subject": "South Wales Miners' Library.;Coal mines and mining in art.;Coal miners in art.",
+      "la:language": "English"
+    },
+    {
+      "@id": "http://linkedart.eu/995226136702419",
+      "@type": "la:Artwork",
+      "la:title": "Sponge : The Animal That Gave Us Oxygen / David Greenslade.",
+      "la:creatorImprint": "Greenslade, David, ([Wales?] : Incunabula, 2024.)",
+      "la:subject": "Sponges.;Invertebrates in art.;Pictorial works.",
+      "la:language": "English"
+    },
+    {
+      "@id": "http://linkedart.eu/995194378702419",
+      "@type": "la:Artwork",
+      "la:title": "Golau Arall / Glyn Price.",
+      "la:creatorImprint": "Price, Glyn, (Caernarfon : Gwasg y Bwthyn Cyf, 2024.)",
+      "la:subject": "Nature in art.;Pictorial works.",
+      "la:language": "Welsh"
+    },
+    {
+      "@id": "http://linkedart.eu/995315214002419",
+      "@type": "la:Artwork",
+      "la:title": "Psalm 23 : Is Còmhnaicheam An Àros Dhè = (And I shall dwell in God's house) :  for solo voice : (2023) / Paul Mealor.",
+      "la:creatorImprint": "Mealor, Paul, (London : Novello, [2023])",
+      "la:subject": "Psalms (Music)--23rd Psalm.;Sacred songs, Unaccompanied.;Psalms (Music);Sacred music.;Scores.",
+      "la:language": "Scottish Gaelic"
+    },
+    {
+      "@id": "http://linkedart.eu/995324009002419",
+      "@type": "la:Artwork",
+      "la:title": "Con moto : (for percussion quartet) / Augusta Read Thomas.",
+      "la:creatorImprint": "Thomas, Augusta Read, ([Monmouth] : Nimbus Music Publishing, [2024])",
+      "la:subject": "Percussion ensembles--Scores and parts.;Art music.;Chamber music.;Scores.;Parts (Music)",
+      "la:language": "No linguistic content"
+    },
+    {
+      "@id": "http://linkedart.eu/995216240002419",
+      "@type": "la:Artwork",
+      "la:title": "Canolfan Mileniwm Cymru : dod â'r adeilad yn fyw, Rhagfyr 2004-Ionawr 2005 = Wales Millennium Centre : bringing the building to life, December 2004-January 2005.",
+      "la:creatorImprint": "Wales Millennium Centre, ([Caerdydd] : Canolfan Mileniwm Cymru, 2004.)",
+      "la:subject": "Theaters--Wales--Cardiff.;Music-halls--Wales--Cardiff.;Performing arts--Wales--Cardiff.;Cardiff (Wales)--Buildings, structures, etc.;Salles de concert--Pays de Galles--Cardiff.;Arts du spectacle--Pays de Galles--Cardiff.;Wales Millennium Centre.;Buildings.;Music-halls.;Performing arts.;Theaters.;Wales--Cardiff.",
+      "la:language": "English"
+    },
+    {
+      "@id": "http://linkedart.eu/995324009102419",
+      "@type": "la:Artwork",
+      "la:title": "The road through Samarkand : for two pianos / George Lloyd.",
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
+      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Music--Manuscripts--Facsimiles.;Piano music (Pianos (2))--Scores.;Facsimiles.;Art music.;Scores.",
+      "la:language": "No linguistic content"
+    },
+    {
+      "@id": "http://linkedart.eu/995168609702419",
+      "@type": "la:Artwork",
+      "la:title": "The tenor man's story / Carole Strachan.",
+      "la:creatorImprint": "Strachan, Carole, (Birmingham : Cinnamon Press, 2024.)",
+      "la:subject": "Tenors (Singers);Music.;Loss (Psychology);Fiction.",
+      "la:language": "English"
+    },
+    {
+      "@id": "http://linkedart.eu/995214032702419",
+      "@type": "la:Artwork",
+      "la:title": "Experimental Wales : A field guide to Off-Grid Welsh Music / by Dukes of Scuba.",
+      "la:creatorImprint": "Cooke, Ashley ([Bangor, Gwynedd] : Dukes of Scuba, 2019.)",
+      "la:subject": "Music.;Welsh.;Avant-garde (Music)",
+      "la:language": "English"
+    },
+    {
+      "@id": "http://linkedart.eu/995194371702419",
+      "@type": "la:Artwork",
+      "la:title": "Wales : 100 records / Huw Stephens.",
+      "la:creatorImprint": "Stephens, Huw, (Talybont : Y Lolfa, 2024.)",
+      "la:subject": "Popular music.;Folk music.;History.;Discographies.",
+      "la:language": "English"
+    },
+    {
+      "@id": "http://linkedart.eu/995214032302419",
+      "@type": "la:Artwork",
+      "la:title": "Dukes of Scuba : the Journal of Welsh Free Improvisation. No.7 - Oct 2021.",
+      "la:creatorImprint": "Dukes of Scuba, ([Bangor, Gwynedd] : Dukes of Scuba, 2021.)",
+      "la:subject": "Music.;Improvisation (Music)",
+      "la:language": "English"
+    },
+    {
+      "@id": "http://linkedart.eu/995251001102419",
+      "@type": "la:Artwork",
+      "la:title": "Dukes of Scuba : non-music / noise / drone / improv / dictaphonix : New Music from Wales. Issue #2 Oct '17.",
+      "la:creatorImprint": "(Bangor, Gwynedd : [Dukes of Scuba], 2017.)",
+      "la:subject": "Music.;Welsh.;Zines.",
+      "la:language": "English"
+    },
+    {
+      "@id": "http://linkedart.eu/995229629502419",
+      "@type": "la:Artwork",
+      "la:title": "Dukes of Scuba : non-music / noise / drone / improv / dictaphonix : New Music from Wales. Issue #5.",
+      "la:creatorImprint": "(Bangor, Gwynedd : [Dukes of Scuba], 2017.)",
+      "la:subject": "Music.;Welsh.;Zines.",
+      "la:language": "English"
+    },
+    {
+      "@id": "http://linkedart.eu/995214032002419",
+      "@type": "la:Artwork",
+      "la:title": "Dukes of Scuba : non-music / noise / drone / improv / dictaphonix : New Music from Wales. Issue #4.",
+      "la:creatorImprint": "(Bangor, Gwynedd : [Dukes of Scuba], 2017.)",
+      "la:subject": "Music.;Welsh.;Zines.",
+      "la:language": "English"
+    },
+    {
+      "@id": "http://linkedart.eu/995214031102419",
+      "@type": "la:Artwork",
+      "la:title": "Dukes of Scuba : non-music / noise / drone / improv / dictaphonix : New Music from Wales. Issue #3 Nov '17.",
+      "la:creatorImprint": "(Bangor, Gwynedd : [Dukes of Scuba], 2017.)",
+      "la:subject": "Music.;Welsh.;Zines.",
+      "la:language": "English"
+    },
+    {
+      "@id": "http://linkedart.eu/995214030702419",
+      "@type": "la:Artwork",
+      "la:title": "Dukes of Scuba : final issue : non-music / noise / drone / improv / dictaphonix : New Music from Wales. issue 6.",
+      "la:creatorImprint": "(Bangor, Gwynedd : [Dukes of Scuba], [2018])",
+      "la:subject": "Music.;Welsh.;Zines.",
+      "la:language": "English"
+    },
+    {
+      "@id": "http://linkedart.eu/995214030402419",
+      "@type": "la:Artwork",
+      "la:title": "Dukes of Scuba : non-music / noise / drone / improv / dictaphonix : New Music from Wales. Issue #1.",
+      "la:creatorImprint": "(Bangor, Gwynedd : [Dukes of Scuba], 2017.)",
+      "la:subject": "Music.;Welsh.;Zines.",
+      "la:language": "English"
+    },
+    {
+      "@id": "http://linkedart.eu/995290391502419",
+      "@type": "la:Artwork",
+      "la:title": "A symphonic mass : for chorus & orchestra / [George Lloyd].",
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
+      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Music--Manuscripts--Facsimiles.;Masses--Scores.;Choruses, Sacred (Mixed voices) with orchestra--Scores.;Facsimiles.;Masses.;Scores.",
+      "la:language": "Latin"
+    },
+    {
+      "@id": "http://linkedart.eu/995324010502419",
+      "@type": "la:Artwork",
+      "la:title": "Piano concerto no. 2, for piano & orchestra / [George Lloyd].",
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita ; [2024])",
+      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Music--Manuscripts--Facsimiles.;Concertos (Piano)--Scores.;Facsimiles.;Concertos.;Scores.",
+      "la:language": "No linguistic content"
+    },
+    {
+      "@id": "http://linkedart.eu/995324009402419",
+      "@type": "la:Artwork",
+      "la:title": "Scapegoat : concerto for piano and orchestra / George Lloyd.",
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita ; [2024])",
+      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Music--Manuscripts--Facsimiles.;Concertos (Piano)--Scores.;Facsimiles.;Concertos.;Scores.",
+      "la:language": "No linguistic content"
+    },
+    {
+      "@id": "http://linkedart.eu/995324009302419",
+      "@type": "la:Artwork",
+      "la:title": "Piano concerto no. 3, for piano & orchestra / [George Lloyd].",
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita ; [2024])",
+      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Music--Manuscripts--Facsimiles.;Concertos (Piano)--Scores.;Facsimiles.;Concertos.;Scores.",
+      "la:language": "No linguistic content"
+    },
+    {
+      "@id": "http://linkedart.eu/995290392502419",
+      "@type": "la:Artwork",
+      "la:title": "Concerto no. 4 for piano & orchestra / George Lloyd.",
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita ; [2024])",
+      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Music--Manuscripts--Facsimiles.;Concertos (Piano)--Scores.;Facsimiles.;Concertos.;Scores.",
+      "la:language": "No linguistic content"
+    },
+    {
+      "@id": "http://linkedart.eu/995211178702419",
+      "@type": "la:Artwork",
+      "la:title": "Teyrnged i Llewelyn Alaw : Ar achlysur Eisteddfod Genedlaethol Cymru Rhodda Cynon Taf 2024 = A Tribute to Llewelyn Alaw : On the occasion of the national Eisteddfod of Wales Rhondda Cynon Taf 2024 / golygyddion Rob Bradshaw, Jeff Jones.",
+      "la:creatorImprint": "Llewelyn Alaw, (Maesteg : Addoldai Cymru, 2024.)",
+      "la:subject": "Llewelyn Alaw,--1828-1879.;Eisteddfod Genedlaethol Cymru--(2024 :--Rhondda Cynon Taff, Wales);Folk music.;Wales--Rhondda Cynon Taff.;History.",
+      "la:language": "English"
+    },
+    {
+      "@id": "http://linkedart.eu/995173499302419",
+      "@type": "la:Artwork",
+      "la:title": "Amser trawsnewidiol = Transversal time / Rhodri Davies.",
+      "la:creatorImprint": "Davies, Rhodri, (Caerdydd : Chapter, 2018.)",
+      "la:subject": "Musical meter and rhythm--Great Britain.;Tempo (Music);Musical meter and rhythm.;Concert programs.",
+      "la:language": "English"
+    },
+    {
+      "@id": "http://linkedart.eu/995290391802419",
+      "@type": "la:Artwork",
+      "la:title": "Concerto for violin & string orchestra / George Lloyd.",
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
+      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Concertos (Violin with string orchestra)--Scores.;Music--Manuscripts--Facsimiles.;Concertos.;Scores.;Facsimiles.",
+      "la:language": "No linguistic content"
+    },
+    {
+      "@id": "http://linkedart.eu/995290391702419",
+      "@type": "la:Artwork",
+      "la:title": "Concerto for violin / George Lloyd.",
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
+      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Concertos (Violin with wind ensemble)--Scores.;Music--Manuscripts--Facsimiles.;Concertos.;Scores.;Facsimiles.",
+      "la:language": "No linguistic content"
+    },
+    {
+      "@id": "http://linkedart.eu/995290392302419",
+      "@type": "la:Artwork",
+      "la:title": "The Vigil of Venus : (Pervigilium Veneris) : for soprano, tenor, chorus & orchestra / [George Lloyd].",
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
+      "la:subject": "Pervigilium Veneris Musical settings.;Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Music--Manuscripts--Facsimiles.;Choruses, Secular (Mixed voices) with orchestra--Scores.;Facsimiles.;Songs.;Musical settings.;Scores.",
+      "la:language": "Latin"
+    },
+    {
+      "@id": "http://linkedart.eu/995215028302419",
+      "@type": "la:Artwork",
+      "la:title": "Stars and ribbons : winter wassailing in Wales / Rhiannon Ifans.",
+      "la:creatorImprint": "Ifans, Rhiannon, (Cardiff : University of Wales Press, 2022.)",
+      "la:subject": "Folk songs, Welsh.;Folk music--Wales.;Folk songs, Welsh--History and criticism.;Folk music--Wales--History and criticism.",
+      "la:language": "English"
+    },
+    {
+      "@id": "http://linkedart.eu/995216239002419",
+      "@type": "la:Artwork",
+      "la:title": "Festival of male voices 1990 - 1991 = 1990 - 1991 Festival van mannenkoren.",
+      "la:creatorImprint": "([Wales?] : [publisher not identified], [1990])",
+      "la:subject": "Music festivals.;Programs (Publications)",
+      "la:language": "English"
+    },
+    {
+      "@id": "http://linkedart.eu/995216239402419",
+      "@type": "la:Artwork",
+      "la:title": "Swansea Male Choir / Swansea Male Choir.",
+      "la:creatorImprint": "(Swansea : Swansea Male Choir, 1972.)",
+      "la:subject": "Swansea Male Choir.;Choirs (Music)--Wales--Swansea.",
+      "la:language": "English"
+    },
+    {
+      "@id": "http://linkedart.eu/995218639502419",
+      "@type": "la:Artwork",
+      "la:title": "Llangollen International Musical Eisteddfod / Eisteddfod Derddorol Gydwladol Llangollen.",
+      "la:creatorImprint": "(Llangollen : Welsh Development Agency, [1996])",
+      "la:subject": "Llangollen International Musical Eisteddfod--(50th :--1997);Music festivals--Wales--Llangollen.",
+      "la:language": "English"
+    }
+  ]
+}
