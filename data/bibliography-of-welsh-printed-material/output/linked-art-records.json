@@ -8,361 +8,3049 @@
       "@id": "http://linkedart.eu/995271998002419",
       "@type": "la:Artwork",
       "la:title": "Welsh saints from Welsh churches / Martin Crampin.",
-      "la:creatorImprint": "Crampin, Martin, (Talybont, Ceredigion : Y Lolfa, 2023.)",
-      "la:subject": "Stained glass windows--Wales.;Christian saints--Wales.;Stained glass windows.;Art, Welsh.;Christian saints.;Christian saints in art.;Wales.;Illustrated works.",
-      "la:language": "English"
+      "la:creatorImprint": "Crampin, Martin, (Talybont, Ceredigion : Y Lolfa, 2023.)"
     },
     {
       "@id": "http://linkedart.eu/995170104802419",
       "@type": "la:Artwork",
       "la:title": "Albert de Belleroche (1864-1944) : works from the artist's studio.",
-      "la:creatorImprint": "Liss Llewellyn Fine Art (Gallery), (London : Liss Llewellyn Fine Art, 2024.)",
-      "la:subject": "Belleroche, Albert de,--1864-1944--Catalogues raisonnes.;Belleroche, Albert de,--1864-1944.;Art.;Drawing.;Catalogues raisonneÌs.",
-      "la:language": "English"
+      "la:creatorImprint": "Liss Llewellyn Fine Art (Gallery), (London : Liss Llewellyn Fine Art, 2024.)"
     },
     {
       "@id": "http://linkedart.eu/995324009002419",
       "@type": "la:Artwork",
       "la:title": "Con moto : (for percussion quartet) / Augusta Read Thomas.",
-      "la:creatorImprint": "Thomas, Augusta Read, ([Monmouth] : Nimbus Music Publishing, [2024])",
-      "la:subject": "Percussion ensembles--Scores and parts.;Art music.;Chamber music.;Scores.;Parts (Music)",
-      "la:language": "No linguistic content"
+      "la:creatorImprint": "Thomas, Augusta Read, ([Monmouth] : Nimbus Music Publishing, [2024])"
     },
     {
       "@id": "http://linkedart.eu/995324009102419",
       "@type": "la:Artwork",
       "la:title": "The road through Samarkand : for two pianos / George Lloyd.",
-      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
-      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Music--Manuscripts--Facsimiles.;Piano music (Pianos (2))--Scores.;Facsimiles.;Art music.;Scores.",
-      "la:language": "No linguistic content"
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])"
     },
     {
       "@id": "http://linkedart.eu/995324008802419",
       "@type": "la:Artwork",
       "la:title": "Eventide : two pianos / [George Lloyd].",
-      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
-      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Music--Manuscripts--Facsimiles.;Piano music (Pianos (2))--Scores.;Facsimiles.;Art music.;Scores.",
-      "la:language": "No linguistic content"
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])"
     },
     {
       "@id": "http://linkedart.eu/995293193602419",
       "@type": "la:Artwork",
       "la:title": "Aubade : two pianos / [George Lloyd].",
-      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
-      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Music--Manuscripts--Facsimiles.;Piano music (Pianos (2))--Scores.;Facsimiles.;Art music.;Scores.",
-      "la:language": "No linguistic content"
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])"
     },
     {
       "@id": "http://linkedart.eu/995290392202419",
       "@type": "la:Artwork",
       "la:title": "An African shrine : piano / [George Lloyd].",
-      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
-      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Piano music.;Music--Manuscripts--Facsimiles.;Facsimiles.;Art music.;Scores.",
-      "la:language": "No linguistic content"
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])"
     },
     {
       "@id": "http://linkedart.eu/995290392102419",
       "@type": "la:Artwork",
       "la:title": "The lily-leaf and the grasshopper : piano / [George Lloyd].",
-      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
-      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Piano music.;Music--Manuscripts--Facsimiles.;Facsimiles.;Art music.;Scores.",
-      "la:language": "No linguistic content"
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])"
     },
     {
       "@id": "http://linkedart.eu/995290391302419",
       "@type": "la:Artwork",
       "la:title": "Lullaby : (Intercom baby) : (1987) : piano / [George Lloyd].",
-      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
-      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Music--Manuscripts--Facsimiles.;Piano music.;Facsimiles.;Art music.;Scores.",
-      "la:language": "No linguistic content"
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])"
     },
     {
       "@id": "http://linkedart.eu/995290391202419",
       "@type": "la:Artwork",
       "la:title": "The road through Samarkand : (1972) : piano / [George Lloyd].",
-      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
-      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Music--Manuscripts--Facsimiles.;Piano music.;Facsimiles.;Art music.;Scores.",
-      "la:language": "No linguistic content"
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])"
     },
     {
       "@id": "http://linkedart.eu/995290391102419",
       "@type": "la:Artwork",
       "la:title": "St. Antony and the beggar : piano / [George Lloyd].",
-      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
-      "la:subject": "Piano music.;Art music.;Scores.",
-      "la:language": "No linguistic content"
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])"
     },
     {
       "@id": "http://linkedart.eu/995290391002419",
       "@type": "la:Artwork",
       "la:title": "The aggressive fishes : piano / [George Lloyd].",
-      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
-      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Piano music.;Music--Manuscripts--Facsimiles.;Facsimiles.;Art music.;Scores.",
-      "la:language": "No linguistic content"
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])"
     },
     {
       "@id": "http://linkedart.eu/995290390902419",
       "@type": "la:Artwork",
       "la:title": "The transformation of that naked ape : for piano / George Lloyd.",
-      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
-      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Music--Manuscripts--Facsimiles.;Piano music.;Facsimiles.;Art music.;Scores.",
-      "la:language": "No linguistic content"
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])"
     },
     {
       "@id": "http://linkedart.eu/995170008202419",
       "@type": "la:Artwork",
       "la:title": "The tomb guardians / Paul Griffiths.",
-      "la:creatorImprint": "Griffiths, Paul, (London : Henningham Family Press, 2021.)",
-      "la:subject": "Strigel, Bernhard,--1460 or 1461-1528--Fiction.;Strigel, Bernhard,--1460 or 1461-1528.;Art, Renaissance.;Fiction.",
-      "la:language": "English"
+      "la:creatorImprint": "Griffiths, Paul, (London : Henningham Family Press, 2021.)"
     },
     {
       "@id": "http://linkedart.eu/995219338302419",
       "@type": "la:Artwork",
       "la:title": "Miners imprint.",
-      "la:creatorImprint": "Swansea University, (Swansea : Swansea University in collaboration with Swansea Print Workshop, 2024.)",
-      "la:subject": "South Wales Miners' Library.;Coal mines and mining in art.;Coal miners in art.",
-      "la:language": "English"
+      "la:creatorImprint": "Swansea University, (Swansea : Swansea University in collaboration with Swansea Print Workshop, 2024.)"
     },
     {
       "@id": "http://linkedart.eu/995226136702419",
       "@type": "la:Artwork",
       "la:title": "Sponge : The Animal That Gave Us Oxygen / David Greenslade.",
-      "la:creatorImprint": "Greenslade, David, ([Wales?] : Incunabula, 2024.)",
-      "la:subject": "Sponges.;Invertebrates in art.;Pictorial works.",
-      "la:language": "English"
+      "la:creatorImprint": "Greenslade, David, ([Wales?] : Incunabula, 2024.)"
     },
     {
       "@id": "http://linkedart.eu/995194378702419",
       "@type": "la:Artwork",
       "la:title": "Golau Arall / Glyn Price.",
-      "la:creatorImprint": "Price, Glyn, (Caernarfon : Gwasg y Bwthyn Cyf, 2024.)",
-      "la:subject": "Nature in art.;Pictorial works.",
-      "la:language": "Welsh"
+      "la:creatorImprint": "Price, Glyn, (Caernarfon : Gwasg y Bwthyn Cyf, 2024.)"
     },
     {
       "@id": "http://linkedart.eu/995315214002419",
       "@type": "la:Artwork",
       "la:title": "Psalm 23 : Is Còmhnaicheam An Àros Dhè = (And I shall dwell in God's house) :  for solo voice : (2023) / Paul Mealor.",
-      "la:creatorImprint": "Mealor, Paul, (London : Novello, [2023])",
-      "la:subject": "Psalms (Music)--23rd Psalm.;Sacred songs, Unaccompanied.;Psalms (Music);Sacred music.;Scores.",
-      "la:language": "Scottish Gaelic"
+      "la:creatorImprint": "Mealor, Paul, (London : Novello, [2023])"
     },
     {
       "@id": "http://linkedart.eu/995324009002419",
       "@type": "la:Artwork",
       "la:title": "Con moto : (for percussion quartet) / Augusta Read Thomas.",
-      "la:creatorImprint": "Thomas, Augusta Read, ([Monmouth] : Nimbus Music Publishing, [2024])",
-      "la:subject": "Percussion ensembles--Scores and parts.;Art music.;Chamber music.;Scores.;Parts (Music)",
-      "la:language": "No linguistic content"
+      "la:creatorImprint": "Thomas, Augusta Read, ([Monmouth] : Nimbus Music Publishing, [2024])"
     },
     {
       "@id": "http://linkedart.eu/995216240002419",
       "@type": "la:Artwork",
       "la:title": "Canolfan Mileniwm Cymru : dod â'r adeilad yn fyw, Rhagfyr 2004-Ionawr 2005 = Wales Millennium Centre : bringing the building to life, December 2004-January 2005.",
-      "la:creatorImprint": "Wales Millennium Centre, ([Caerdydd] : Canolfan Mileniwm Cymru, 2004.)",
-      "la:subject": "Theaters--Wales--Cardiff.;Music-halls--Wales--Cardiff.;Performing arts--Wales--Cardiff.;Cardiff (Wales)--Buildings, structures, etc.;Salles de concert--Pays de Galles--Cardiff.;Arts du spectacle--Pays de Galles--Cardiff.;Wales Millennium Centre.;Buildings.;Music-halls.;Performing arts.;Theaters.;Wales--Cardiff.",
-      "la:language": "English"
+      "la:creatorImprint": "Wales Millennium Centre, ([Caerdydd] : Canolfan Mileniwm Cymru, 2004.)"
     },
     {
       "@id": "http://linkedart.eu/995324009102419",
       "@type": "la:Artwork",
       "la:title": "The road through Samarkand : for two pianos / George Lloyd.",
-      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
-      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Music--Manuscripts--Facsimiles.;Piano music (Pianos (2))--Scores.;Facsimiles.;Art music.;Scores.",
-      "la:language": "No linguistic content"
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])"
     },
     {
       "@id": "http://linkedart.eu/995168609702419",
       "@type": "la:Artwork",
       "la:title": "The tenor man's story / Carole Strachan.",
-      "la:creatorImprint": "Strachan, Carole, (Birmingham : Cinnamon Press, 2024.)",
-      "la:subject": "Tenors (Singers);Music.;Loss (Psychology);Fiction.",
-      "la:language": "English"
+      "la:creatorImprint": "Strachan, Carole, (Birmingham : Cinnamon Press, 2024.)"
     },
     {
       "@id": "http://linkedart.eu/995214032702419",
       "@type": "la:Artwork",
       "la:title": "Experimental Wales : A field guide to Off-Grid Welsh Music / by Dukes of Scuba.",
-      "la:creatorImprint": "Cooke, Ashley ([Bangor, Gwynedd] : Dukes of Scuba, 2019.)",
-      "la:subject": "Music.;Welsh.;Avant-garde (Music)",
-      "la:language": "English"
+      "la:creatorImprint": "Cooke, Ashley ([Bangor, Gwynedd] : Dukes of Scuba, 2019.)"
     },
     {
       "@id": "http://linkedart.eu/995194371702419",
       "@type": "la:Artwork",
       "la:title": "Wales : 100 records / Huw Stephens.",
-      "la:creatorImprint": "Stephens, Huw, (Talybont : Y Lolfa, 2024.)",
-      "la:subject": "Popular music.;Folk music.;History.;Discographies.",
-      "la:language": "English"
+      "la:creatorImprint": "Stephens, Huw, (Talybont : Y Lolfa, 2024.)"
     },
     {
       "@id": "http://linkedart.eu/995214032302419",
       "@type": "la:Artwork",
       "la:title": "Dukes of Scuba : the Journal of Welsh Free Improvisation. No.7 - Oct 2021.",
-      "la:creatorImprint": "Dukes of Scuba, ([Bangor, Gwynedd] : Dukes of Scuba, 2021.)",
-      "la:subject": "Music.;Improvisation (Music)",
-      "la:language": "English"
+      "la:creatorImprint": "Dukes of Scuba, ([Bangor, Gwynedd] : Dukes of Scuba, 2021.)"
     },
     {
       "@id": "http://linkedart.eu/995251001102419",
       "@type": "la:Artwork",
       "la:title": "Dukes of Scuba : non-music / noise / drone / improv / dictaphonix : New Music from Wales. Issue #2 Oct '17.",
-      "la:creatorImprint": "(Bangor, Gwynedd : [Dukes of Scuba], 2017.)",
-      "la:subject": "Music.;Welsh.;Zines.",
-      "la:language": "English"
+      "la:creatorImprint": "(Bangor, Gwynedd : [Dukes of Scuba], 2017.)"
     },
     {
       "@id": "http://linkedart.eu/995229629502419",
       "@type": "la:Artwork",
       "la:title": "Dukes of Scuba : non-music / noise / drone / improv / dictaphonix : New Music from Wales. Issue #5.",
-      "la:creatorImprint": "(Bangor, Gwynedd : [Dukes of Scuba], 2017.)",
-      "la:subject": "Music.;Welsh.;Zines.",
-      "la:language": "English"
+      "la:creatorImprint": "(Bangor, Gwynedd : [Dukes of Scuba], 2017.)"
     },
     {
       "@id": "http://linkedart.eu/995214032002419",
       "@type": "la:Artwork",
       "la:title": "Dukes of Scuba : non-music / noise / drone / improv / dictaphonix : New Music from Wales. Issue #4.",
-      "la:creatorImprint": "(Bangor, Gwynedd : [Dukes of Scuba], 2017.)",
-      "la:subject": "Music.;Welsh.;Zines.",
-      "la:language": "English"
+      "la:creatorImprint": "(Bangor, Gwynedd : [Dukes of Scuba], 2017.)"
     },
     {
       "@id": "http://linkedart.eu/995214031102419",
       "@type": "la:Artwork",
       "la:title": "Dukes of Scuba : non-music / noise / drone / improv / dictaphonix : New Music from Wales. Issue #3 Nov '17.",
-      "la:creatorImprint": "(Bangor, Gwynedd : [Dukes of Scuba], 2017.)",
-      "la:subject": "Music.;Welsh.;Zines.",
-      "la:language": "English"
+      "la:creatorImprint": "(Bangor, Gwynedd : [Dukes of Scuba], 2017.)"
     },
     {
       "@id": "http://linkedart.eu/995214030702419",
       "@type": "la:Artwork",
       "la:title": "Dukes of Scuba : final issue : non-music / noise / drone / improv / dictaphonix : New Music from Wales. issue 6.",
-      "la:creatorImprint": "(Bangor, Gwynedd : [Dukes of Scuba], [2018])",
-      "la:subject": "Music.;Welsh.;Zines.",
-      "la:language": "English"
+      "la:creatorImprint": "(Bangor, Gwynedd : [Dukes of Scuba], [2018])"
     },
     {
       "@id": "http://linkedart.eu/995214030402419",
       "@type": "la:Artwork",
       "la:title": "Dukes of Scuba : non-music / noise / drone / improv / dictaphonix : New Music from Wales. Issue #1.",
-      "la:creatorImprint": "(Bangor, Gwynedd : [Dukes of Scuba], 2017.)",
-      "la:subject": "Music.;Welsh.;Zines.",
-      "la:language": "English"
+      "la:creatorImprint": "(Bangor, Gwynedd : [Dukes of Scuba], 2017.)"
     },
     {
       "@id": "http://linkedart.eu/995290391502419",
       "@type": "la:Artwork",
       "la:title": "A symphonic mass : for chorus & orchestra / [George Lloyd].",
-      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
-      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Music--Manuscripts--Facsimiles.;Masses--Scores.;Choruses, Sacred (Mixed voices) with orchestra--Scores.;Facsimiles.;Masses.;Scores.",
-      "la:language": "Latin"
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])"
     },
     {
       "@id": "http://linkedart.eu/995324010502419",
       "@type": "la:Artwork",
       "la:title": "Piano concerto no. 2, for piano & orchestra / [George Lloyd].",
-      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita ; [2024])",
-      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Music--Manuscripts--Facsimiles.;Concertos (Piano)--Scores.;Facsimiles.;Concertos.;Scores.",
-      "la:language": "No linguistic content"
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita ; [2024])"
     },
     {
       "@id": "http://linkedart.eu/995324009402419",
       "@type": "la:Artwork",
       "la:title": "Scapegoat : concerto for piano and orchestra / George Lloyd.",
-      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita ; [2024])",
-      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Music--Manuscripts--Facsimiles.;Concertos (Piano)--Scores.;Facsimiles.;Concertos.;Scores.",
-      "la:language": "No linguistic content"
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita ; [2024])"
     },
     {
       "@id": "http://linkedart.eu/995324009302419",
       "@type": "la:Artwork",
       "la:title": "Piano concerto no. 3, for piano & orchestra / [George Lloyd].",
-      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita ; [2024])",
-      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Music--Manuscripts--Facsimiles.;Concertos (Piano)--Scores.;Facsimiles.;Concertos.;Scores.",
-      "la:language": "No linguistic content"
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita ; [2024])"
     },
     {
       "@id": "http://linkedart.eu/995290392502419",
       "@type": "la:Artwork",
       "la:title": "Concerto no. 4 for piano & orchestra / George Lloyd.",
-      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita ; [2024])",
-      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Music--Manuscripts--Facsimiles.;Concertos (Piano)--Scores.;Facsimiles.;Concertos.;Scores.",
-      "la:language": "No linguistic content"
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita ; [2024])"
     },
     {
       "@id": "http://linkedart.eu/995211178702419",
       "@type": "la:Artwork",
       "la:title": "Teyrnged i Llewelyn Alaw : Ar achlysur Eisteddfod Genedlaethol Cymru Rhodda Cynon Taf 2024 = A Tribute to Llewelyn Alaw : On the occasion of the national Eisteddfod of Wales Rhondda Cynon Taf 2024 / golygyddion Rob Bradshaw, Jeff Jones.",
-      "la:creatorImprint": "Llewelyn Alaw, (Maesteg : Addoldai Cymru, 2024.)",
-      "la:subject": "Llewelyn Alaw,--1828-1879.;Eisteddfod Genedlaethol Cymru--(2024 :--Rhondda Cynon Taff, Wales);Folk music.;Wales--Rhondda Cynon Taff.;History.",
-      "la:language": "English"
+      "la:creatorImprint": "Llewelyn Alaw, (Maesteg : Addoldai Cymru, 2024.)"
     },
     {
       "@id": "http://linkedart.eu/995173499302419",
       "@type": "la:Artwork",
       "la:title": "Amser trawsnewidiol = Transversal time / Rhodri Davies.",
-      "la:creatorImprint": "Davies, Rhodri, (Caerdydd : Chapter, 2018.)",
-      "la:subject": "Musical meter and rhythm--Great Britain.;Tempo (Music);Musical meter and rhythm.;Concert programs.",
-      "la:language": "English"
+      "la:creatorImprint": "Davies, Rhodri, (Caerdydd : Chapter, 2018.)"
     },
     {
       "@id": "http://linkedart.eu/995290391802419",
       "@type": "la:Artwork",
       "la:title": "Concerto for violin & string orchestra / George Lloyd.",
-      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
-      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Concertos (Violin with string orchestra)--Scores.;Music--Manuscripts--Facsimiles.;Concertos.;Scores.;Facsimiles.",
-      "la:language": "No linguistic content"
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])"
     },
     {
       "@id": "http://linkedart.eu/995290391702419",
       "@type": "la:Artwork",
       "la:title": "Concerto for violin / George Lloyd.",
-      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
-      "la:subject": "Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Concertos (Violin with wind ensemble)--Scores.;Music--Manuscripts--Facsimiles.;Concertos.;Scores.;Facsimiles.",
-      "la:language": "No linguistic content"
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])"
     },
     {
       "@id": "http://linkedart.eu/995290392302419",
       "@type": "la:Artwork",
       "la:title": "The Vigil of Venus : (Pervigilium Veneris) : for soprano, tenor, chorus & orchestra / [George Lloyd].",
-      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])",
-      "la:subject": "Pervigilium Veneris Musical settings.;Lloyd, George,--1913-1998--Manuscripts--Facsimiles.;Music--Manuscripts--Facsimiles.;Choruses, Secular (Mixed voices) with orchestra--Scores.;Facsimiles.;Songs.;Musical settings.;Scores.",
-      "la:language": "Latin"
+      "la:creatorImprint": "Lloyd, George, (Monmouth : [Kendal] : Lyrita Recorded Edition ; [2024])"
     },
     {
       "@id": "http://linkedart.eu/995215028302419",
       "@type": "la:Artwork",
       "la:title": "Stars and ribbons : winter wassailing in Wales / Rhiannon Ifans.",
-      "la:creatorImprint": "Ifans, Rhiannon, (Cardiff : University of Wales Press, 2022.)",
-      "la:subject": "Folk songs, Welsh.;Folk music--Wales.;Folk songs, Welsh--History and criticism.;Folk music--Wales--History and criticism.",
-      "la:language": "English"
+      "la:creatorImprint": "Ifans, Rhiannon, (Cardiff : University of Wales Press, 2022.)"
     },
     {
       "@id": "http://linkedart.eu/995216239002419",
       "@type": "la:Artwork",
       "la:title": "Festival of male voices 1990 - 1991 = 1990 - 1991 Festival van mannenkoren.",
-      "la:creatorImprint": "([Wales?] : [publisher not identified], [1990])",
-      "la:subject": "Music festivals.;Programs (Publications)",
-      "la:language": "English"
+      "la:creatorImprint": "([Wales?] : [publisher not identified], [1990])"
     },
     {
       "@id": "http://linkedart.eu/995216239402419",
       "@type": "la:Artwork",
       "la:title": "Swansea Male Choir / Swansea Male Choir.",
-      "la:creatorImprint": "(Swansea : Swansea Male Choir, 1972.)",
-      "la:subject": "Swansea Male Choir.;Choirs (Music)--Wales--Swansea.",
-      "la:language": "English"
+      "la:creatorImprint": "(Swansea : Swansea Male Choir, 1972.)"
     },
     {
       "@id": "http://linkedart.eu/995218639502419",
       "@type": "la:Artwork",
       "la:title": "Llangollen International Musical Eisteddfod / Eisteddfod Derddorol Gydwladol Llangollen.",
-      "la:creatorImprint": "(Llangollen : Welsh Development Agency, [1996])",
-      "la:subject": "Llangollen International Musical Eisteddfod--(50th :--1997);Music festivals--Wales--Llangollen.",
-      "la:language": "English"
+      "la:creatorImprint": "(Llangollen : Welsh Development Agency, [1996])"
+    },
+    {
+      "@id": "http://linkedart.eu/995194376402419",
+      "@type": "la:Artwork",
+      "la:title": "Camu / Iola Ynyr.",
+      "la:creatorImprint": "Ynyr, Iola, (Talybont : Y Lolfa, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995194371302419",
+      "@type": "la:Artwork",
+      "la:title": "Crefftwr Cefn Gwlad : Atgofion Arthur Gwynn Jones / Arthur Gwynn Jones.",
+      "la:creatorImprint": "Jones, Arthur Gwynn, (Talybont : Y Lolfa, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995250895602419",
+      "@type": "la:Artwork",
+      "la:title": "Childhood home. 1, The first ten years / Jon N Davies.",
+      "la:creatorImprint": "Davies, Jon N., (Swansea : Purple Unicorn, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995288444402419",
+      "@type": "la:Artwork",
+      "la:title": "On the deeds of Gerald = (De gestis Giraldi) / Gerald of Wales ; edited and translated by Jacob Currie with Thomas Charles-Edwards and Paul Russell.",
+      "la:creatorImprint": "Giraldus, (Oxford ; New York : Clarendon Press, [2024])"
+    },
+    {
+      "@id": "http://linkedart.eu/995237789302419",
+      "@type": "la:Artwork",
+      "la:title": "Scotia / Jon N. Davies.",
+      "la:creatorImprint": "Davies, Jon N., ([Swansea] : Scimitar Edge, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995228538002419",
+      "@type": "la:Artwork",
+      "la:title": "Bruce of the Himalaya : the life and times of the Hon Brigadier General Charles Granville Bruce, CB MVO 1866-1939 : Soldier - Leader - Himalayan explorer / Alan Vernon Jones, MRICS.",
+      "la:creatorImprint": "Jones, Alan Vernon, (Aberdare : Alan Vernon Jones, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995219338402419",
+      "@type": "la:Artwork",
+      "la:title": "Dare we win : my life was in pieces before I wrote this for you / Dewi Wyn Hughes.",
+      "la:creatorImprint": "Hughes, Dewi Wyn, (Bicester : Words by Design, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995218432102419",
+      "@type": "la:Artwork",
+      "la:title": "Becoming Dr Jones : A wild life / Rhys Jones.",
+      "la:creatorImprint": "Jones, Rhys, (London : Headline Accent, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995214728102419",
+      "@type": "la:Artwork",
+      "la:title": "Reaching beyond : Mountains and Voyages of Denise Evans : An Autobiography.",
+      "la:creatorImprint": "Evans, Denise, ([Wales?] : Delfryn Publications, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995211183902419",
+      "@type": "la:Artwork",
+      "la:title": "My Days at Penrhos Junior School : 1961 to 1985 / Kathleen M. Hassell.",
+      "la:creatorImprint": "Hassell, Kathleen M., (Westbury Lodge, Arundel : Astra Books, 2016.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995211080102419",
+      "@type": "la:Artwork",
+      "la:title": "A stroll up Cymmer hill : reminiscences of a Rhondda lad / Rosslyn Morgan.",
+      "la:creatorImprint": "Morgan, Rosslyn, (Staffordshire Press : Rosslyn Morgan, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995177903202419",
+      "@type": "la:Artwork",
+      "la:title": "Fathers land : memoirs of nobody important / Lyndon Jeremiah.",
+      "la:creatorImprint": "Jeremiah, Lyndon, ([South Wales] : Jeremiah Publishing, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995170007402419",
+      "@type": "la:Artwork",
+      "la:title": "The Long Road Back / Paul Davies.",
+      "la:creatorImprint": "Davies, Paul ([Cardiff?] : [Paul Davies], 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995164981902419",
+      "@type": "la:Artwork",
+      "la:title": "The Cathays Files 25 / Haydn Thomas.",
+      "la:creatorImprint": "Thomas, Haydn, (Manchester : Resarton Books, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995152007802419",
+      "@type": "la:Artwork",
+      "la:title": "Childhood of dreams : Holidays 1978-1986 / Jon N. Davies.",
+      "la:creatorImprint": "Davies, Jon N., (Swansea : Scimitar Edge, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995175608602419",
+      "@type": "la:Artwork",
+      "la:title": "1000 Tudor people / Melita Thomas.",
+      "la:creatorImprint": "Thomas, Melita, (Llanelli : Graffeg, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995159907102419",
+      "@type": "la:Artwork",
+      "la:title": "Milky Way to Silver Screen : The Journey from Rural Carmarthenshire to London by the Thomas Family of Pencarreg and Llanybydder = Llwybr Llaethog i'r Sgrin Arian / Huw Thomas Davies.",
+      "la:creatorImprint": "Davies, Huw Thomas, ([Wales?] : Huw Thomas Davies, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995288444402419",
+      "@type": "la:Artwork",
+      "la:title": "On the deeds of Gerald = (De gestis Giraldi) / Gerald of Wales ; edited and translated by Jacob Currie with Thomas Charles-Edwards and Paul Russell.",
+      "la:creatorImprint": "Giraldus, (Oxford ; New York : Clarendon Press, [2024])"
+    },
+    {
+      "@id": "http://linkedart.eu/995193575602419",
+      "@type": "la:Artwork",
+      "la:title": "Josiah Tucker, Ou Dieu Contre L'Empire : biographie intellectuelle d'un économiste du dix-huitième siècle / Karim Ghorbal ; préface de Philippe Minard.",
+      "la:creatorImprint": "Ghorbal, Karim, (Paris : Honoré Champion, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995193610002419",
+      "@type": "la:Artwork",
+      "la:title": "Entre el honor y la espada / Juan David Morgan.",
+      "la:creatorImprint": "Morgan, Juan David, (Barcelona : Debolsillo, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995239790102419",
+      "@type": "la:Artwork",
+      "la:title": "Gwen John / Emma Chambers.",
+      "la:creatorImprint": "Chambers, Emma, (London : Tate Publishing, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995222033002419",
+      "@type": "la:Artwork",
+      "la:title": "Ellen Constance Nightingale : a life / by John Griffiths Pedley.",
+      "la:creatorImprint": "Pedley, John Griffiths, (Brooklyn, NY : GnatBooks, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995219335302419",
+      "@type": "la:Artwork",
+      "la:title": "Merched Siop Newydd / Richard Jones = The Siop Newydd girls / Richard Jones.",
+      "la:creatorImprint": "Jones, Richard, (Bristol : Tangent Books, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995218432902419",
+      "@type": "la:Artwork",
+      "la:title": "William Morgan : eighteenth-century actuary, mathematician and radical / Nicola Bruton Bennetts.",
+      "la:creatorImprint": "Bennetts, Nicola Bruton, (Cardiff : University of Wales Press, 2020.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995216440602419",
+      "@type": "la:Artwork",
+      "la:title": "Snow widows : Scott's fatal Antarctic expedition through the eyes of the women they left behind / Katherine MacInnes.",
+      "la:creatorImprint": "MacInnes, Katherine, (London : William Collins, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995215027602419",
+      "@type": "la:Artwork",
+      "la:title": "Widows of the ice : the women that Scott's Antarctic expedition left behind / Anne Fletcher.",
+      "la:creatorImprint": "Fletcher, Anne (Stroud, Gloucestershire : Amberley Publishing, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995214040602419",
+      "@type": "la:Artwork",
+      "la:title": "Hugh Ellis y Berthfawr : y prydydd dwys a doniol / Huw Ellis.",
+      "la:creatorImprint": "Ellis, Huw, (Llanrwst : Gwasg Carreg Gwalch, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995197709702419",
+      "@type": "la:Artwork",
+      "la:title": "Ruth Bidgood : Chosen poems / Ruth Bidgood ; with a memoir by Merryn Williams.",
+      "la:creatorImprint": "Bidgood, Ruth, (Beeston : Shoestring Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995194370502419",
+      "@type": "la:Artwork",
+      "la:title": "Cofio Dai / golygydd: Beti Griffiths.",
+      "la:creatorImprint": "Griffiths, Beti, (Talybont : Y Lolfa, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995193609802419",
+      "@type": "la:Artwork",
+      "la:title": "Son of prophecy : the rise of Henry Tudor / Nathen Amin.",
+      "la:creatorImprint": "Amin, Nathen, (Stroud : Amberley Publishing, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178594502419",
+      "@type": "la:Artwork",
+      "la:title": "In search of the last bard : the life & legacy of Edward Evan (1716-1798) / James C. Stewart.",
+      "la:creatorImprint": "Stewart, James C. ([Aberdare] : Cynon Valley History Society, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995170107702419",
+      "@type": "la:Artwork",
+      "la:title": "Lawrence of Arabia : Colonel T.E. Lawrence CB, DSO : places and objects of interest / Paul Kendall.",
+      "la:creatorImprint": "Kendall, Paul, (Barnsley : Frontline Books, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995165107402419",
+      "@type": "la:Artwork",
+      "la:title": "Man, myth and museum : Iorwerth C. Peate and the making of the Welsh Folk Museum / Eurwyn Wiliam.",
+      "la:creatorImprint": "Wiliam, Eurwyn, (Cardiff : University of Wales Press, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995159906802419",
+      "@type": "la:Artwork",
+      "la:title": "Thomas Turner Lotherington (1817-1852) / Huw Thomas Davies.",
+      "la:creatorImprint": "Davies, Huw Thomas, ([Wales?] : Huw Thomas Davies, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995250319202419",
+      "@type": "la:Artwork",
+      "la:title": "The making of a monster / by Connor Allen.",
+      "la:creatorImprint": "Allen, Connor, (Twickenham : Aurora Metro Publications Ltd., 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995250286702419",
+      "@type": "la:Artwork",
+      "la:title": "The Merthyr stigmatist / Lisa Parry.",
+      "la:creatorImprint": "Parry, Lisa, (London : NHB, Nick Hern Books, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995302812402419",
+      "@type": "la:Artwork",
+      "la:title": "Shinani'n Siarad : (Sef 'The Vagina Monologues') / Eve Ensler ; Addasiad Cymraeg gan Sharon Morgan.",
+      "la:creatorImprint": "V, (Llanofer : Melin Bapur, 2025.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995264293402419",
+      "@type": "la:Artwork",
+      "la:title": "Wyneb yn wyneb / Meic Povey.",
+      "la:creatorImprint": "Povey, Meic, (Aberystwyth : Atebol, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995094194502419",
+      "@type": "la:Artwork",
+      "la:title": "Crash / Sera Moore Williams.",
+      "la:creatorImprint": "Moore-Williams, Sêra, (Aberystwyth : Atebol, 2009.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995265998202419",
+      "@type": "la:Artwork",
+      "la:title": "The hedgewitch of Foxhall / Anna Bright.",
+      "la:creatorImprint": "Bright, Anna, (New York : HarperTeen, an imprint of Harper Collins Publishers, [2024])"
+    },
+    {
+      "@id": "http://linkedart.eu/995285796802419",
+      "@type": "la:Artwork",
+      "la:title": "Not forever, but for now : a novel / Chuck Palahniuk.",
+      "la:creatorImprint": "Palahniuk, Chuck, (New York : Simon & Schuster Paperbacks, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995216440302419",
+      "@type": "la:Artwork",
+      "la:title": "Reparation / by Gaby Koppel.",
+      "la:creatorImprint": "Koppel, Gaby, (Vale of Glamorgan, Wales : Honno Press, 2019.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995170008602419",
+      "@type": "la:Artwork",
+      "la:title": "The same country / Carole Burns.",
+      "la:creatorImprint": "Burns, Carole, (London : Legend Press, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178792802419",
+      "@type": "la:Artwork",
+      "la:title": "Lie or die / A. J. Clack.",
+      "la:creatorImprint": "Clack, A. J., (Cardiff, Wales. : Firefly, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995214033502419",
+      "@type": "la:Artwork",
+      "la:title": "Hide and seek : a Bletchley Park mystery / Rhian Tracey.",
+      "la:creatorImprint": "Tracey, Rhian, (London : Piccadilly Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995165083302419",
+      "@type": "la:Artwork",
+      "la:title": "The warrior's forbidden maiden / Lissa Morgan.",
+      "la:creatorImprint": "Morgan, Lissa, (Toronto, Ontario : Harlequin Enterprises ULC, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178792502419",
+      "@type": "la:Artwork",
+      "la:title": "Welsh giants, ghosts & goblins / Claire Fayers.",
+      "la:creatorImprint": "Fayers, Claire, (Cardiff : Firefly Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995195007802419",
+      "@type": "la:Artwork",
+      "la:title": "Stori'r Brenin Arthur / Siân Lewis ; darluniau gan Graham Howells.",
+      "la:creatorImprint": "Lewis, Siân, (Caerffili : Rily, 2017.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995194375602419",
+      "@type": "la:Artwork",
+      "la:title": "The crazy truth / Gemma June Howell.",
+      "la:creatorImprint": "Howell, Gemma June, (Bridgend : Seren, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995214041002419",
+      "@type": "la:Artwork",
+      "la:title": "Dianc / Jeff Kinney ; addasiad Owain Sion.",
+      "la:creatorImprint": "Kinney, Jeff, (Caerphilly : Rily, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995164982402419",
+      "@type": "la:Artwork",
+      "la:title": "Impact of evidence / Carol Carnac.",
+      "la:creatorImprint": "Carnac, Carol, (London : British Library Publishing, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995152008502419",
+      "@type": "la:Artwork",
+      "la:title": "Arthur / Giles Kristian.",
+      "la:creatorImprint": "Kristian, Giles, (London : Bantam Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995218434302419",
+      "@type": "la:Artwork",
+      "la:title": "Pam oedd Raid i Bopeth Newid? = Why Did Everything Have to Change? / Anna Friend a Jake Biggin ; Addasiad, Anwen Pierce.",
+      "la:creatorImprint": "Pierce, Anwen, (Caerffili : Rily, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178789302419",
+      "@type": "la:Artwork",
+      "la:title": "Major and Mynah : Tarantula terror / Karen Owen ; illustrated by Louise Forshaw.",
+      "la:creatorImprint": "Owen, Karen, (Cardiff : Firefly Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995177108202419",
+      "@type": "la:Artwork",
+      "la:title": "Y crwt yn y cefn / Onjali Raúf ; addasiad Cymraeg gan Bethan Mair.",
+      "la:creatorImprint": "Raúf, Onjali Q., (Caerffili : Rily Publications Ltd, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995194375002419",
+      "@type": "la:Artwork",
+      "la:title": "Christopher's caterpillars / Charlotte Middleton.",
+      "la:creatorImprint": "Middleton, Charlotte, (Llanelli : Graffeg, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995177705802419",
+      "@type": "la:Artwork",
+      "la:title": "Pry-copwr mewn picil / addasiad gan Mared Llwyd.",
+      "la:creatorImprint": "Llwyd, Mared, (Caerphilly : Rily Publications Ltd, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995142701402419",
+      "@type": "la:Artwork",
+      "la:title": "Doligsawrws / Tom Fletcher ; darluniwyd gan Shane Devries ; addaswyd gan Gwynne Williams.",
+      "la:creatorImprint": "Fletcher, Tom, (Cardiff : Dref Wen, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178789202419",
+      "@type": "la:Artwork",
+      "la:title": "Tapper Watson and the quest for the Nemo Machine / Claire Fayers.",
+      "la:creatorImprint": "Fayers, Claire, (Cardiff : Firefly Press, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995177109202419",
+      "@type": "la:Artwork",
+      "la:title": "Yr hudlath a'r haearn : byth bythoedd am byth. 4 / Cressida Cowell ; cyd-addaswyd gan Ifan Morgan Jones a Llinos Dafydd.",
+      "la:creatorImprint": "Cowell, Cressida, (Caerphilly : Rily Publications Ltd, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178788802419",
+      "@type": "la:Artwork",
+      "la:title": "Y Llwynog Melfed / Catherine Fisher.",
+      "la:creatorImprint": "Fisher, Catherine, (Cardiff : Firefly, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995169608102419",
+      "@type": "la:Artwork",
+      "la:title": "The Volunteers / Raymond Williams.",
+      "la:creatorImprint": "Williams, Raymond, (Cardigan : Parthian Books, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178792902419",
+      "@type": "la:Artwork",
+      "la:title": "The doll twin / Janine Beacham.",
+      "la:creatorImprint": "Beacham, Janine, (Cardiff : Firefly Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995169608502419",
+      "@type": "la:Artwork",
+      "la:title": "Ellen, Countess of Castle Howel / Anna Maria Bennett ; edited by Mary Chadwick.",
+      "la:creatorImprint": "Bennett, (Aberystwyth : Honno Welsh Women's Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995214033602419",
+      "@type": "la:Artwork",
+      "la:title": "I, spy : a Bletchley Park mystery / Rhian Tracey.",
+      "la:creatorImprint": "Tracey, Rhian, (London : Piccadilly Press, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995175608202419",
+      "@type": "la:Artwork",
+      "la:title": "Pen-Blwydd Hapus? / Ffion Emlyn.",
+      "la:creatorImprint": "Emlyn, Ffion, (Talybont, Ceredigion : Y Lolfa, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995169608802419",
+      "@type": "la:Artwork",
+      "la:title": "Drws anna / Dafydd Apolloni.",
+      "la:creatorImprint": "Apolloni, Dafydd, (Llanrwst : Gwasg Carreg Gwalch, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995160904202419",
+      "@type": "la:Artwork",
+      "la:title": "Bread and Buttermilk / Helen Payton.",
+      "la:creatorImprint": "Payton, Helen, ([Wales] : Hiraethog Press, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995177709002419",
+      "@type": "la:Artwork",
+      "la:title": "Yr hudlath a'r haearn : Curo Deirgwaith. 3 / Cressida Cowell ; addaswyd gan Ifan Morgan Jones.",
+      "la:creatorImprint": "Cowell, Cressida, (Caerphilly : Rily, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995169608202419",
+      "@type": "la:Artwork",
+      "la:title": "Fall river / Meredith Miller.",
+      "la:creatorImprint": "Miller, Meredith, (Aberystwyth : Honno Welsh Women's Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995177709102419",
+      "@type": "la:Artwork",
+      "la:title": "Yr Hudlath a'r haearn : Y ddau ddewin. 2 / Cressida Cowell ; addaswyd gan Ifan Morgan Jones.",
+      "la:creatorImprint": "Cowell, Cressida, (Caerphilly : Rily Publications Ltd, 2020.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995195010202419",
+      "@type": "la:Artwork",
+      "la:title": "Y byd hud / [darluniau gan] Barbi Sido ; addasiad gan Lowri Head.",
+      "la:creatorImprint": "Sido, Barbi, (Hengoed : Rily, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995177109102419",
+      "@type": "la:Artwork",
+      "la:title": "Twm Clwyd : Seren y dosbarth / Liz Pichon ; addasiad Cymraeg gan Gwenno Hughes.",
+      "la:creatorImprint": "Pichon, Liz, (Caerphilly : Rily Publications Ltd, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995216440902419",
+      "@type": "la:Artwork",
+      "la:title": "Miriam, Daniel and me / Euron Griffith.",
+      "la:creatorImprint": "Griffith, Euron, (Brigend, Wales : Seren, [2020])"
+    },
+    {
+      "@id": "http://linkedart.eu/995178797002419",
+      "@type": "la:Artwork",
+      "la:title": "Anturiaethau'r Brenin Arthur / Rebecca Thomas.",
+      "la:creatorImprint": "Thomas, Rebecca, (Llanrwst : Gwasg Carreg Gwalch, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995164993502419",
+      "@type": "la:Artwork",
+      "la:title": "Gritstone / Alan Newcombe.",
+      "la:creatorImprint": "Newcombe, Alan (Birmingham, UK : Leaf by Leaf, an imprint of Cinnamon Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995177108602419",
+      "@type": "la:Artwork",
+      "la:title": "Rhyfeddod / R.J. Palacio ; addasiad Eiry Miles.",
+      "la:creatorImprint": "Palacio, R. J., (Caerffili : Rily Publications Ltd, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995169608602419",
+      "@type": "la:Artwork",
+      "la:title": "Unspeakable beauty / Georgia Carys Williams.",
+      "la:creatorImprint": "Williams, Georgia Carys, (Cardigan : Parthian, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995194375402419",
+      "@type": "la:Artwork",
+      "la:title": "Swim, Shark, Swim! / Dom Conlon; illustrated by Anastasia Izlesou.",
+      "la:creatorImprint": "Conlon, Dom, (Cardiff : Graffeg Limited, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995194372202419",
+      "@type": "la:Artwork",
+      "la:title": "Criw'r coed a'r gwenyn coll / Carys Glyn ; lluniau Ruth Jên.",
+      "la:creatorImprint": "Glyn, Carys Haf, (Talybont : Y Lolfa, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178792302419",
+      "@type": "la:Artwork",
+      "la:title": "The song that sings us / Nicola Davies.",
+      "la:creatorImprint": "Davies, Nicola, (Cardiff : Firefly Press, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995218438202419",
+      "@type": "la:Artwork",
+      "la:title": "Peppa ac Uncorn y Nadolig / Gan Lauren Holowaty ; Addasiad gan Owain Siôn.",
+      "la:creatorImprint": "Holowaty, Lauren, (Caerffili : Rily, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995194372402419",
+      "@type": "la:Artwork",
+      "la:title": "Rhifau / Max Low ; addasiad gan Alexa Price.",
+      "la:creatorImprint": "Low, Max, (Cardiff : Graffeg Bach, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995219338202419",
+      "@type": "la:Artwork",
+      "la:title": "One afternoon / by Siân James.",
+      "la:creatorImprint": "James, Siân, (Bath : Persephone Books, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995066503902419",
+      "@type": "la:Artwork",
+      "la:title": "Le livre d'Yvain : ms. Aberystwyth, National Library of Wales, 444D / édition par Emanuele Arioli.",
+      "la:creatorImprint": "Arioli, Emanuele, (Paris : Honoré Champion éditeur, 2019.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995170008202419",
+      "@type": "la:Artwork",
+      "la:title": "The tomb guardians / Paul Griffiths.",
+      "la:creatorImprint": "Griffiths, Paul, (London : Henningham Family Press, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995194375702419",
+      "@type": "la:Artwork",
+      "la:title": "The last day = y dydd olaf / Owain Owain ; translated by Emyr Wallace Humphreys.",
+      "la:creatorImprint": "Owain, Owain, (Cardigan : Parthian, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995214040902419",
+      "@type": "la:Artwork",
+      "la:title": "Moana / addasiad Mared Llwyd.",
+      "la:creatorImprint": "Llwyd, Mared, (Caerphilly : Rily, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995175608302419",
+      "@type": "la:Artwork",
+      "la:title": "Fi, a Mr Huws / Mared Lewis.",
+      "la:creatorImprint": "Lewis, Mared, (Talybont, Ceredigion : Y Lolfa, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178788902419",
+      "@type": "la:Artwork",
+      "la:title": "Hanes fy hynodrwydd / Chloë Heuch ; addasiad Mared Llwyd.",
+      "la:creatorImprint": "Heuch, Chloë, (Cardiff : Firefly Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995170007002419",
+      "@type": "la:Artwork",
+      "la:title": "Cyfansoddiadau buddugol adran lenyddol Eisteddfod yr Urdd Maldwyn 2024.",
+      "la:creatorImprint": "Maddocks, Llio, (Cardiff, Wales : Urdd Gobaith Cymru, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178792102419",
+      "@type": "la:Artwork",
+      "la:title": "Flame chasers / Julie Pike.",
+      "la:creatorImprint": "Pike, Julie (Cardiff : Firefly Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995170004802419",
+      "@type": "la:Artwork",
+      "la:title": "Gwilym a Benni Bach / W. Llewelyn Williams.",
+      "la:creatorImprint": "Williams, W. Llewelyn (Caerdydd : Melin Bapur, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178793302419",
+      "@type": "la:Artwork",
+      "la:title": "Noah Frye gets crushed / Maggie Horne.",
+      "la:creatorImprint": "Horne, Maggie, (Cardiff : Firefly Books, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995194379302419",
+      "@type": "la:Artwork",
+      "la:title": "Albert and the Pond / Ian Brown and Eoin Clarke.",
+      "la:creatorImprint": "Brown, Ian (Cardiff : Graffeg Limited, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995194371502419",
+      "@type": "la:Artwork",
+      "la:title": "The joy bringers / Karin Celestine.",
+      "la:creatorImprint": "Celestine, Karin, (Llanelli : Graffeg, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995177109002419",
+      "@type": "la:Artwork",
+      "la:title": "Y seren uwch fy mhen / Onjali Rauf ; addasiad gan Bethan Mair.",
+      "la:creatorImprint": "Raúf, Onjali Q., (Caerphilly : Rily Publications Ltd, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995164993802419",
+      "@type": "la:Artwork",
+      "la:title": "Portrait of the artist as a young dog and other fiction / Dylan Thomas.",
+      "la:creatorImprint": "Thomas, Dylan, (London : Alma Classics, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995177108002419",
+      "@type": "la:Artwork",
+      "la:title": "Rhyfel y sgidiau / Liz Pichon ; addasiad Gwenno Hughes.",
+      "la:creatorImprint": "Pichon, Liz, (Caerffili : Rily Publications Ltd, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178792202419",
+      "@type": "la:Artwork",
+      "la:title": "Libby and the Manhattan mystery / Jo Clarke ; illustrated by Becka Moor.",
+      "la:creatorImprint": "Clarke, Jo, (Cardiff : Firefly Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178792002419",
+      "@type": "la:Artwork",
+      "la:title": "A history of my weird / Chloë Heuch.",
+      "la:creatorImprint": "Heuch, Chloë, (Cardiff : Firefly Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995177108402419",
+      "@type": "la:Artwork",
+      "la:title": "Oes yr arth a'r blaidd / Jeff Kinney ; addasiad Cymraeg gan Owain Sion.",
+      "la:creatorImprint": "Kinney, Jeff, (Caerffili : Rily Publications Ltd, 2020.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995194376802419",
+      "@type": "la:Artwork",
+      "la:title": "Rhedyn, merlyn y mawn / Myrddin ap Dafydd.",
+      "la:creatorImprint": "Myrddin ap Dafydd, (Llanrwst : Gwasg Carreg Gwalch, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995197709002419",
+      "@type": "la:Artwork",
+      "la:title": "Growl at the moon : a weird western / Rhys Hughes.",
+      "la:creatorImprint": "Hughes, Rhys, (Canterbury, Kent : Telos Publishing, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995194377902419",
+      "@type": "la:Artwork",
+      "la:title": "Madws / Sioned Wyn Roberts.",
+      "la:creatorImprint": "Roberts, Sioned Wyn, (Caernarfon : Gwasg y Bwthyn, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995170107302419",
+      "@type": "la:Artwork",
+      "la:title": "Apocalypse Array / Lyda Morehouse.",
+      "la:creatorImprint": "Morehouse, Lyda, (Rhydaman : Wizards Tower Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995170003502419",
+      "@type": "la:Artwork",
+      "la:title": "Gŵr y Dolau : neu ffordd y troseddwr / W. Llewelyn Williams.",
+      "la:creatorImprint": "Williams, W. Llewelyn (Caerdydd : Melin Bapur, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995177708002419",
+      "@type": "la:Artwork",
+      "la:title": "Avengers : Brwydr yr Urdd Ddu / addasiad gan Mared Llwyd.",
+      "la:creatorImprint": "Llwyd, Mared, (Caerphilly : Rily Publications Ltd, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995229537602419",
+      "@type": "la:Artwork",
+      "la:title": "The dandelion's tale : an allegory of migration / written and illustrated by Margaret Anne Suggs.",
+      "la:creatorImprint": "Suggs, Margaret, (Cardiff : Graffeg, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995194379502419",
+      "@type": "la:Artwork",
+      "la:title": "Haf o hud / Caryl Lewis ; darluniwyd gan George Ermos ; addasiad Meinir Wyn Edwards.",
+      "la:creatorImprint": "Lewis, Caryl, (Talybont : Y Lolfa, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995194378802419",
+      "@type": "la:Artwork",
+      "la:title": "Albert and the Flood / Ian Brown and Eoin Clarke.",
+      "la:creatorImprint": "Brown, Ian (Cardiff : Graffeg Limited, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995194378002419",
+      "@type": "la:Artwork",
+      "la:title": "Gwaddol / Rhian Cadwaladr.",
+      "la:creatorImprint": "Cadwaladr, Rhian, (Llanrwst : Gwasg Carreg Gwalch, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995194371402419",
+      "@type": "la:Artwork",
+      "la:title": "Y bocs erstalwm / Mair Wynn Hughes.",
+      "la:creatorImprint": "Hughes, Mair Wynn, (Llanrwst : Gwasg Carreg Gwalch, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178794702419",
+      "@type": "la:Artwork",
+      "la:title": "The Great Stupidity / Dewi Heald.",
+      "la:creatorImprint": "Heald, Dewi, ([Llandeilo] : Llyfrau Cambria Books, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178595002419",
+      "@type": "la:Artwork",
+      "la:title": "The answer is an egg sandwich / Tom East.",
+      "la:creatorImprint": "East, Tom, ([Wales?] : Benybont Books, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995175606702419",
+      "@type": "la:Artwork",
+      "la:title": "Cant a mil o freuddwydion / Rhiannon Lloyd Williams ; lluniau gan Sioned Medi Evans.",
+      "la:creatorImprint": "Lloyd Williams, Rhiannon, (Talybont, Ceredigion : Y Lolfa, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995170004002419",
+      "@type": "la:Artwork",
+      "la:title": "The Great Deed of Gwilym Bevan / T. Gwynn Jones.",
+      "la:creatorImprint": "Jones, T. Gwynn (Cardiff, Wales : Melin Bapur, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995170003802419",
+      "@type": "la:Artwork",
+      "la:title": "Inmitten der Nacht / Angharad Tomos.",
+      "la:creatorImprint": "Tomos, Angharad, (Caerdydd : Melin Bapur, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995169610102419",
+      "@type": "la:Artwork",
+      "la:title": "In the blood / Jenny Newman.",
+      "la:creatorImprint": "Newman, Jenny, ([London] : Psychology News Press Ltd, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995168609702419",
+      "@type": "la:Artwork",
+      "la:title": "The tenor man's story / Carole Strachan.",
+      "la:creatorImprint": "Strachan, Carole, (Birmingham : Cinnamon Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178789402419",
+      "@type": "la:Artwork",
+      "la:title": "... And I Hear Dragons / Ed: Hanan Issa ; Illustrated by Eric Heyman.",
+      "la:creatorImprint": "Issa, Hanan, (Cardiff : Firefly, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995229537502419",
+      "@type": "la:Artwork",
+      "la:title": "The shy book / Howard Pearlstein & James Munro.",
+      "la:creatorImprint": "Pearlstein, Howard, (Llanelli : Graffeg Limited, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995229537902419",
+      "@type": "la:Artwork",
+      "la:title": "Ebb and Flo and the New Boat / Kate Canning and Thomas Voigt ; original books by Jane Simmons.",
+      "la:creatorImprint": "Canning, Kate, (Llanelli : Graffeg, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995218636602419",
+      "@type": "la:Artwork",
+      "la:title": "Gwenynen = Bee / Gan Brendan Kearney ; Addasiad, Awen Schiavone.",
+      "la:creatorImprint": "Kearney, Brendan (Hengoed : Rily, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995229538002419",
+      "@type": "la:Artwork",
+      "la:title": "Ebb and Flo : A blowy day / Kate Canning and Thomas Voigt ; original books by Jane Simmons.",
+      "la:creatorImprint": "Canning, Kate, (Llanelli : Graffeg, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995218434702419",
+      "@type": "la:Artwork",
+      "la:title": "Aderyn = Bird / Brendan Kearney ; Addasiad, Awen Schiavone.",
+      "la:creatorImprint": "Kearney, Brendan (Caerffili : Rily, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995169608402419",
+      "@type": "la:Artwork",
+      "la:title": "The word / JL George.",
+      "la:creatorImprint": "George, JL, (Aberystwyth : New Welsh Rarebyte, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995194372702419",
+      "@type": "la:Artwork",
+      "la:title": "Albert ABC / Ian Brown and Eoin Clarke.",
+      "la:creatorImprint": "Brown, Ian (Llanelli : Graffeg, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995226139502419",
+      "@type": "la:Artwork",
+      "la:title": "Diwrnod mabolgampau / [cyfieithiad gan Owain Siôn].",
+      "la:creatorImprint": "Siôn, Owain, (Hengoed : Rily, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178792402419",
+      "@type": "la:Artwork",
+      "la:title": "Starspill / Catherine Fisher.",
+      "la:creatorImprint": "Fisher, Catherine, (Cardiff : Firefly Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995194407602419",
+      "@type": "la:Artwork",
+      "la:title": "Weithau dwi'n poeni / wedi'i gymeradwyo gan Dr Janet Rose ; darluniau gan Marie Paruit ; addasiad Elin Meek.",
+      "la:creatorImprint": "Rose, Janet (Caerphilly : Rily Publications Ltd, 2020.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178786902419",
+      "@type": "la:Artwork",
+      "la:title": "Mae archarwyr yn golchi eu dwylo! = Superheroes wash their hands! / ysgrifennwyd gan Katie Button ; darluniwyd gan Kasia Dudziuk ; addasiad gan Llinos Dafydd.",
+      "la:creatorImprint": "Button, Katie, ([Caerphilly] : Rily Publications Ltd, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995179068902419",
+      "@type": "la:Artwork",
+      "la:title": "Pirat's Early Cases : A further collection of Inspector Pirat detective short stories / Rob Falconer.",
+      "la:creatorImprint": "Falconer, Rob ([Penarth?] : Rob Falconer, 2016.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995179068802419",
+      "@type": "la:Artwork",
+      "la:title": "The Scrapbook of Inspector Pirat : His Six collection of detective stories / Rob Falconer.",
+      "la:creatorImprint": "Falconer, Rob ([Penarth?] : Rob Falconer, 2019.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995197709202419",
+      "@type": "la:Artwork",
+      "la:title": "Shooting at Strangers / Graham Wright.",
+      "la:creatorImprint": "Wright, Graham ([Shropshire?] : Strelitzia Publishing, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995193610002419",
+      "@type": "la:Artwork",
+      "la:title": "Entre el honor y la espada / Juan David Morgan.",
+      "la:creatorImprint": "Morgan, Juan David, (Barcelona : Debolsillo, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178793402419",
+      "@type": "la:Artwork",
+      "la:title": "The haunted life of Delores Mackenzie / Yvonne Banham.",
+      "la:creatorImprint": "Banham, Yvonne, (Cardiff : Firefly Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995177109402419",
+      "@type": "la:Artwork",
+      "la:title": "Dreigio : Cara a Sleifarian / Alastair Chisholm ; addasiad gan Llyr Titus.",
+      "la:creatorImprint": "Chisholm, Alastair (Caerphilly : Rily Publications Ltd, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995177109302419",
+      "@type": "la:Artwork",
+      "la:title": "Dreigio : Elis a Llwybryn / Alastair Chisholm ; addasiad Cymraeg gan Llyr Titus.",
+      "la:creatorImprint": "Chisholm, Alastair (Caerphilly : Rily Publications Ltd, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995177108902419",
+      "@type": "la:Artwork",
+      "la:title": "Y bachgen a'r adenydd / Lenny Henry ; darluniau gan Keenon Ferrell ; addasiad gan Nia Morais.",
+      "la:creatorImprint": "Henry, Lenny, (Caerphilly : Rily Publications Ltd, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995170107502419",
+      "@type": "la:Artwork",
+      "la:title": "Fallen Host / Lyda Morehouse.",
+      "la:creatorImprint": "Morehouse, Lyda, (Rhydaman : Wizard's Tower Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995170107202419",
+      "@type": "la:Artwork",
+      "la:title": "Archangel Protocol / Lyda Morehouse.",
+      "la:creatorImprint": "Morehouse, Lyda, (Rhydaman : Wizards Tower Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995170003602419",
+      "@type": "la:Artwork",
+      "la:title": "Yr Hobyd / J.R.R. Tolkien.",
+      "la:creatorImprint": "Tolkien, J. R. R. (Caerdydd : Melin Bapur, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995164993602419",
+      "@type": "la:Artwork",
+      "la:title": "The Glastonbury triangle / Stephen Ford.",
+      "la:creatorImprint": "Ford, Stephen, (Birmingham : Leaf by Leaf, an imprint of Cinnamon Press, [2024])"
+    },
+    {
+      "@id": "http://linkedart.eu/995152008902419",
+      "@type": "la:Artwork",
+      "la:title": "Out of Business. 3 / Simon Pearce.",
+      "la:creatorImprint": "Pearce, Simon L., ([Wales] : Space Monkey Creations Ltd, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178792702419",
+      "@type": "la:Artwork",
+      "la:title": "Me and Aaron Ramsey / [written and translated by] Manon Steffan Ros.",
+      "la:creatorImprint": "Steffan Ros, Manon, (Cardiff : Firefly Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995250911402419",
+      "@type": "la:Artwork",
+      "la:title": "Eachtraí Sherlock Holmes / Arthur Conan Doyle ; [newly compiled by] Éamonn Ó Dónaill ; [translated by] Prionnsias Ó Brógáin ; [transcribed by] Míchéal O' hAodha.",
+      "la:creatorImprint": "Doyle, Arthur Conan, (Baile Átha Cliath : Foilseacháin Ábhair Spioradálta , 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995195009902419",
+      "@type": "la:Artwork",
+      "la:title": "Pryderi'r ddraig / Dr. Sharie Coombes ; darluniwyd gan Colleen Larmour ; addasiad gan Ceri Wyn Jones.",
+      "la:creatorImprint": "Coombes, Sharie, (Caerphilly : Rily Publications Ltd, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995195010002419",
+      "@type": "la:Artwork",
+      "la:title": "Cysga'n iach, farchog bach / Sharie Coombes ; darluniwyd gan Colleen Larmour ; addasiad gan Ceri Wyn Jones.",
+      "la:creatorImprint": "Coombes, Sharie, ([Caerphilly] : Rily Publications Ltd, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995218635302419",
+      "@type": "la:Artwork",
+      "la:title": "Mae gan bawb deimladau = Everybody has feelings / Jon Burgerman ; Addasiad, Llinos Dafydd.",
+      "la:creatorImprint": "Burgerman, Jon, (Caerffili : Rily, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995218434102419",
+      "@type": "la:Artwork",
+      "la:title": "Mae Fory'n Ddiwrnod Newydd Sbon = Tomorrow is a Brand-New Day / Davina Bell ac Allison Colpoys ; Addasiad, Aneirin Karadog.",
+      "la:creatorImprint": "Bell, Davina, (Caerffili : Rily, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995162206502419",
+      "@type": "la:Artwork",
+      "la:title": "Nos da Smot / Eric Hill ; addasiad: Atebol.",
+      "la:creatorImprint": "Hill, Eric, (Aberystwyth : Atebol, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178789602419",
+      "@type": "la:Artwork",
+      "la:title": "Michael the incredible super-sleuth sausage dog / Terrie Chilvers ; illustrated by Tim Budgen.",
+      "la:creatorImprint": "Chilvers, Terrie, (Cardiff : Firefly Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995177109602419",
+      "@type": "la:Artwork",
+      "la:title": "Bran ac arwr y bws / Onjali Rauf ; addasiad gan Elidir Jones.",
+      "la:creatorImprint": "Raúf, Onjali Q., (Caerffili : Rily Publications Ltd, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995218433602419",
+      "@type": "la:Artwork",
+      "la:title": "Môr ac Awyr = Ocean Meets Sky / Y Brodyr Fan ; Addasiad, Tudur Dylan Jones.",
+      "la:creatorImprint": "Fan Brothers, (Caerffili : Rily, 2020.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995164982002419",
+      "@type": "la:Artwork",
+      "la:title": "Dancing the shadows : A book of unfinished tales : and featuring 'Daydreams are forever' by Brian G. Davies / Grey Wolf ; Brian G. Davies.",
+      "la:creatorImprint": "Grey Wolf, (Swansea : Scimitar Edge, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995193585302419",
+      "@type": "la:Artwork",
+      "la:title": "Peppa'n mynd i'r gofod / gan Erin Rose Wage ; addasiad Cymraeg gan Lowri Head.",
+      "la:creatorImprint": "Wage, Erin Rose, (Caerphilly : Rily Publications Ltd, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995195009602419",
+      "@type": "la:Artwork",
+      "la:title": "Y llew frenin / addasiad gan Mared Llwyd.",
+      "la:creatorImprint": "Llwyd, Mared, (Caerphilly : Rily Publications Ltd, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995218433802419",
+      "@type": "la:Artwork",
+      "la:title": "Enfysawrws = Rainbowsaurus / Steve Antony ; Addasiad, Llŷr Titus.",
+      "la:creatorImprint": "Antony, Steve, (Caerfilli : Rily, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995177705902419",
+      "@type": "la:Artwork",
+      "la:title": "Eira Wen / addasiad gan Mared Llwyd.",
+      "la:creatorImprint": "Llwyd, Mared, (Caerphilly : Rily Publications Ltd, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995218433902419",
+      "@type": "la:Artwork",
+      "la:title": "Pryder Glain / Tom Percival ; Addasiad: Testun Cyf.",
+      "la:creatorImprint": "Percival, Tom, (Caerfilli : Rily, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995218438602419",
+      "@type": "la:Artwork",
+      "la:title": "The Greedy king / illustrated by Maja Andersen = Y Brenin barus / Darluniau gan Maja Andersen ; Addasiad, Anna Gruffudd-Fleming.",
+      "la:creatorImprint": "Andersen, Maja, (Caerffili : Rily, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995218434402419",
+      "@type": "la:Artwork",
+      "la:title": "Pysgodyn = Fish / Brendan Kearney ; Addasiad, Awen Schiavone.",
+      "la:creatorImprint": "Kearney, Brendan (Caerffili : Rily, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995194378202419",
+      "@type": "la:Artwork",
+      "la:title": "Flames of anarchy / Leslie Scase.",
+      "la:creatorImprint": "Scase, Leslie, (Bridgend : Seren, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995194377802419",
+      "@type": "la:Artwork",
+      "la:title": "Aur yn y Pridd / Gwen Parrott.",
+      "la:creatorImprint": "Parrott, Gwen, (Caernarfon : Gwasg y Bwthyn Cyf, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995194371102419",
+      "@type": "la:Artwork",
+      "la:title": "Y cysgod yn y cof / Bob Morris.",
+      "la:creatorImprint": "Morris, Robert M., (Talybont : Y Lolfa, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995170107402419",
+      "@type": "la:Artwork",
+      "la:title": "Messiah Node / Lyda Morehouse.",
+      "la:creatorImprint": "Morehouse, Lyda, (Rhydaman : Wizards Tower Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995169610202419",
+      "@type": "la:Artwork",
+      "la:title": "The prophet and the wayzenmoot. Book 2 / Sue Woolley.",
+      "la:creatorImprint": "Woolley, Sue, ([Swansea] : Scimitar Edge, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178787002419",
+      "@type": "la:Artwork",
+      "la:title": "Peppa ar antur / addasiad gan Kathy Broderick ; addasiad Cymraeg gan Lowri Head.",
+      "la:creatorImprint": "Broderick, Kathy, (Caerphilly : Rily Publications Ltd, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995159908902419",
+      "@type": "la:Artwork",
+      "la:title": "Supertaten yn cyflwyno Jac a'r Goeden Ffa / Sue Hendra, Paul Linnet.",
+      "la:creatorImprint": "Hendra, Sue, (Caerdydd : Dref Wen, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995218435102419",
+      "@type": "la:Artwork",
+      "la:title": "Yr Anhygoel Peppa / Addasiad gwreiddiol gan Lauren Holowaty ; Addasiad Cymraeg, Owain Siôn.",
+      "la:creatorImprint": "Holowaty, Lauren, (Caerfilli : Rily, 2019.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995177708802419",
+      "@type": "la:Artwork",
+      "la:title": "Cwn sombi ydi'r gorau / Liz Pichon ; addasiad Gwenno Hughes.",
+      "la:creatorImprint": "Pichon, Liz, (Caerphilly : Rily Publications Ltd, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995177705002419",
+      "@type": "la:Artwork",
+      "la:title": "Peppa'n mynd i ddawnsio / addasiad Cymraeg Owain Sion.",
+      "la:creatorImprint": "Siôn, Owain, (Caerphilly : Rily Publications Ltd, 2020.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995265998302419",
+      "@type": "la:Artwork",
+      "la:title": "Stone in the Water = Carreg yn y Dŵr / Richard Wynn-Jones.",
+      "la:creatorImprint": "Wynn-Jones, Richard, (Bath : Brown Dog Books, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995177708102419",
+      "@type": "la:Artwork",
+      "la:title": "Wini Pot Mêl / addasiad gan Mared Llwyd.",
+      "la:creatorImprint": "Llwyd, Mared, (Caerphilly : Rily Publications Ltd, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995193585102419",
+      "@type": "la:Artwork",
+      "la:title": "Teithio gyda Tomos / gan Claire Winslow ; darluniau gan Nigel Chilvers ; addasiad gan Lowri Head.",
+      "la:creatorImprint": "Winslow, Claire, (Caerphilly : Rily Publications Ltd, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995214140902419",
+      "@type": "la:Artwork",
+      "la:title": "Straeon gwerin Cymru : i'r hen a'r ifanc â darluniau / Peter Stevenson ; addasiad Siân Lewis.",
+      "la:creatorImprint": "Stevenson, Peter, (Cheltenham, Gloucestershire : The History Pres, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995237789502419",
+      "@type": "la:Artwork",
+      "la:title": "Meandering through time. Volume 4, The grey granite walls and the lost stories from Wales / by Bruce Parry.",
+      "la:creatorImprint": "Parry, Bruce (Poole : Moyhill Publishing, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995226136002419",
+      "@type": "la:Artwork",
+      "la:title": "The World's First Female Time Traveller / by Dewi Heald.",
+      "la:creatorImprint": "Heald, Dewi, ([Wales?] : Dream Jellyhouse, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995197709102419",
+      "@type": "la:Artwork",
+      "la:title": "The house with eyes : an other stories / Carol Lee ; illustrations by Chantal Bourgonje.",
+      "la:creatorImprint": "Lee, Carol, ([London?] : Stonechat Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995197708602419",
+      "@type": "la:Artwork",
+      "la:title": "Once Upon a Time in Wales / Gill Garrett.",
+      "la:creatorImprint": "Garrett, Gill, (Malvern : Aspect Design, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995169609302419",
+      "@type": "la:Artwork",
+      "la:title": "Over the mountains and the sea : tales of brave Celtic women / translated by Jane Burnard ; illustrated by Elin Manon.",
+      "la:creatorImprint": "Manon, Elin, (Llanrwst : Gwasg Carreg Gwalch, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995165490202419",
+      "@type": "la:Artwork",
+      "la:title": "Ten stories of King Arthur / Michael Scott.",
+      "la:creatorImprint": "Scott, Michael, (Beijing : Foreign Language Teaching and Research Press, 2013.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995164991102419",
+      "@type": "la:Artwork",
+      "la:title": "Under one roof : ten years of Stiwdio Maelor / edited by Pippa Brush Chappell, Veronica Calarco, Earl Livings and Zoe Ranson.",
+      "la:creatorImprint": "Brush Chappell, Pippa, (Corris : Maelor Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995092999902419",
+      "@type": "la:Artwork",
+      "la:title": "The Last Hurrah and other Stories / Graham Whitaker.",
+      "la:creatorImprint": "Whitaker, Graham, (London : A.L.H., [2023])"
+    },
+    {
+      "@id": "http://linkedart.eu/995250912702419",
+      "@type": "la:Artwork",
+      "la:title": "Slow travel Britain with Lodestars anthology : 22 mindful journeys across England, Scotland & Wales / compiled and written by Liz Schaffer ; editing by Florence Ward.",
+      "la:creatorImprint": "Schaffer, Liz, (London : Hoxton Mini Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995169609002419",
+      "@type": "la:Artwork",
+      "la:title": "Woodland walks in Pembrokeshire / David Bowers, Faith Bowers.",
+      "la:creatorImprint": "Bowers, David George, (Llanrwst : Gwasg Carreg Gwalch, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995169608902419",
+      "@type": "la:Artwork",
+      "la:title": "Cerdded Lerpwl y Cymry / Gari Wyn.",
+      "la:creatorImprint": "Wyn, Gari, (Llanrwst : Gwasg Carreg Gwalch, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995194376902419",
+      "@type": "la:Artwork",
+      "la:title": "The Road : a guide to crossing the Nepal Himalayas by bike / Richard Williams ; photography Manish Maharjan and Ananta Poudel.",
+      "la:creatorImprint": "Williams, Richard, (Llanelli : Graffeg, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995164976302419",
+      "@type": "la:Artwork",
+      "la:title": "Glyndwr's Way : 62 large-scale maps & guides to 20 towns and villages : Planning - Places to stay - Places to eat : Knighton - Welshpool - Knighton / Chris Scott.",
+      "la:creatorImprint": "Scott, Chris, (Hindhead : Trailblazer Publications, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995285796502419",
+      "@type": "la:Artwork",
+      "la:title": "Sport Climbing in England & Wales. Volume 2. South / Steve Broadbent.",
+      "la:creatorImprint": "Broadbent, Steve, (Hull : Oxford Alpine Club, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995197709402419",
+      "@type": "la:Artwork",
+      "la:title": "The lazy photographer's guide to Anglesey and north Wales / Ste Maguire.",
+      "la:creatorImprint": "Maguire, Ste, (Kings Lynn : Biddles Books, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995197708402419",
+      "@type": "la:Artwork",
+      "la:title": "Scottish rock. Volume 1, South / Gary Latter.",
+      "la:creatorImprint": "Latter, Gary, (Caernarfon, Gwynedd : Pesda Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178595602419",
+      "@type": "la:Artwork",
+      "la:title": "Explore the South West Coast Path : A guide for walkers, backpackers and trail runners / Mark Rainsley ; maps by Bute Cartographics.",
+      "la:creatorImprint": "Rainsley, Mark, (Caernarfon, Gwynedd : Pesda Press Ltd, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178595402419",
+      "@type": "la:Artwork",
+      "la:title": "Wales Cymru Best Paddle Boarding : 100 places : SUP, canoe & kayak / Lise Drewe.",
+      "la:creatorImprint": "Drewe, Lisa, (Bath : Wild Things Publishing Ltd, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178594402419",
+      "@type": "la:Artwork",
+      "la:title": "Wild Swimming Walks : Eryri / Snowdonia : 28 River, Lake & Waterfall Days Out In North Wales / Emma Marshall.",
+      "la:creatorImprint": "Marshall, Emma (Bath : Wild Things Publishing Ltd., 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995094195302419",
+      "@type": "la:Artwork",
+      "la:title": "Cyflwniad i Gwm Elan = Elan Valley guide.",
+      "la:creatorImprint": "([Eardisley] : Logaston Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995229540002419",
+      "@type": "la:Artwork",
+      "la:title": "The royal and ancient borough of Caernarvon: the official guide.",
+      "la:creatorImprint": "Caernarfon (Wales). Corporation. (Caernarvon : Corporation, [195u])"
+    },
+    {
+      "@id": "http://linkedart.eu/995229539902419",
+      "@type": "la:Artwork",
+      "la:title": "Throup's North Wales Motorists' Guide.",
+      "la:creatorImprint": "(Bradford : T. Throup, [192u])"
+    },
+    {
+      "@id": "http://linkedart.eu/995239678102419",
+      "@type": "la:Artwork",
+      "la:title": "Rail freight / Paul Shannon.",
+      "la:creatorImprint": "Shannon, Paul, (Stamford : Key Publishing, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995289695402419",
+      "@type": "la:Artwork",
+      "la:title": "Places of worship in Britain and Ireland, 1689-1829 / edited by P.S. Barnwell and Mark Smith.",
+      "la:creatorImprint": "Barnwell, P. S., (Donington, Lincolnshire [England] : Shaun Tyas, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995293391602419",
+      "@type": "la:Artwork",
+      "la:title": "Llandrindod Wells : the historic spas of central Wales ; tref y ffyhonnau / Bruce E. Osborne.",
+      "la:creatorImprint": "Osborne, Bruce. (Tadworth : British Spas Federation, ©1999.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995292781302419",
+      "@type": "la:Artwork",
+      "la:title": "The Anglican episcopate, 1689-1800 / edited by Nigel Aston and William Gibson.",
+      "la:creatorImprint": "Aston, Nigel, (Cardiff : University of Wales Press, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995268490502419",
+      "@type": "la:Artwork",
+      "la:title": "Wrexham at work : people and industries through the years.",
+      "la:creatorImprint": "SHUTTLEWORTH, STEWART. ([S.l.] : AMBERLEY PUBLISHING, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995268489502419",
+      "@type": "la:Artwork",
+      "la:title": "Crafted with pride : queer craft and activism in contemporary Britain / edited by Daniel Fountain.",
+      "la:creatorImprint": "Fountain, Daniel (Bristol, UK ; Chicago, USA : Intellect Books, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995209107102419",
+      "@type": "la:Artwork",
+      "la:title": "Black students in Imperial Britain : The African Institute, Colwyn Bay, 1889-1911 / Robert Burroughs.",
+      "la:creatorImprint": "Burroughs, Robert M., (Liverpool : Liverpool University Press, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995237195702419",
+      "@type": "la:Artwork",
+      "la:title": "Welsh not : elementary education and the anglicisation of Wales / Martin Johnes.",
+      "la:creatorImprint": "Johnes, Martin, (Cardiff : University of Wales Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995292786002419",
+      "@type": "la:Artwork",
+      "la:title": "Warfare, raiding and defence in early Medieval Britain / Erik Grigg.",
+      "la:creatorImprint": "Grigg, Erik, (Ramsbury : The Crowood Press, 2018)"
+    },
+    {
+      "@id": "http://linkedart.eu/995270881202419",
+      "@type": "la:Artwork",
+      "la:title": "Swansea's Royal Institution and Wales's first museum / edited by Helen Hallesy with Gerald Gabb.",
+      "la:creatorImprint": "Hallesy, Helen L., ([Cardiff, Wales] : University of Wales Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995270881502419",
+      "@type": "la:Artwork",
+      "la:title": "Gender in modern Welsh history : perspectives on masculinity and femininity in Wales from 1750 to 2000 / edited by Beth Jenkins, Paul O'Leary and Stephanie Ward.",
+      "la:creatorImprint": "Jenkins, Beth (Cardiff : University of Wales Press, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995237196902419",
+      "@type": "la:Artwork",
+      "la:title": "Natural stone and world heritage : the castles and town walls of King Edward in Gwynedd / Ruth Siddall.",
+      "la:creatorImprint": "Siddall, Ruth, (Leiden, The Netherlands : CRC Press, Balkema, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995143509402419",
+      "@type": "la:Artwork",
+      "la:title": "A Brief History of the Countryside in 100 Objects / Sally Coulthard.",
+      "la:creatorImprint": "Coulthard, Sally, (Manchester : HarperNorth, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995300903202419",
+      "@type": "la:Artwork",
+      "la:title": "The Bennie Osler tour : the Springboks in Britain, 1931/32 / Hans Saestad.",
+      "la:creatorImprint": "Saestad, Hans. ([South Africa] : [Hans Saestad], [2013])"
+    },
+    {
+      "@id": "http://linkedart.eu/995300908302419",
+      "@type": "la:Artwork",
+      "la:title": "Pembrokeshire / Jonathan Mullard.",
+      "la:creatorImprint": "Mullard, Jonathan, (London : William Collins, 2020.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995268490102419",
+      "@type": "la:Artwork",
+      "la:title": "Global politics of Welsh Patagonia : settler colonialism from the margins / Lucy Taylor.",
+      "la:creatorImprint": "Taylor, Lucy, (Cardiff : University of Wales Press, 2025.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995237195402419",
+      "@type": "la:Artwork",
+      "la:title": "The trials of Edward Vaughan : law, Civil War and gentry faction in seventeenth-century Britain, c.1596-1661 / Lloyd Bowen.",
+      "la:creatorImprint": "Bowen, Lloyd, (Cardiff : University of Wales Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995268488502419",
+      "@type": "la:Artwork",
+      "la:title": "Of talons and teeth / Niall Griffiths.",
+      "la:creatorImprint": "Griffiths, Niall, (London : Repeater, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995300899902419",
+      "@type": "la:Artwork",
+      "la:title": "Rhayader through the window : 70 years of Rhayader W.I.",
+      "la:creatorImprint": "Rhayader Women's Institute. (Rhayader : Rhayader Women's Institute, 2001.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995270884202419",
+      "@type": "la:Artwork",
+      "la:title": "Secret Haverfordwest",
+      "la:creatorImprint": "Barker, Patricia Swales. ([S.l.] : AMBERLEY PUBLISHING, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995268489202419",
+      "@type": "la:Artwork",
+      "la:title": "A-Z of Wrexham : places, people, history / Christopher Davies.",
+      "la:creatorImprint": "Davies, Christopher, (Stroud : Amberley Publishing, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995293392602419",
+      "@type": "la:Artwork",
+      "la:title": "Masaryk Station / David Downing.",
+      "la:creatorImprint": "Downing, David, (Brecon, [Wales] Old Street, 2013.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241391802419",
+      "@type": "la:Artwork",
+      "la:title": "Wales : 100 records / Huw Stephens.",
+      "la:creatorImprint": "Stephens, Huw, (Talybont, Ceredigion : Y Lolfa, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995292781502419",
+      "@type": "la:Artwork",
+      "la:title": "Painting the beauty queens orange : women's lives in the 1970s / introduced by Rhian E. Jones.",
+      "la:creatorImprint": "John, Angela V., (Dinas Powys, Vale of Glamorgan, Wales : Honno, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995237195102419",
+      "@type": "la:Artwork",
+      "la:title": "The lordship of Denbigh, 1282-1543 / by D. Huw Owen.",
+      "la:creatorImprint": "Owen, D. Huw, (Cardiff : University of Wales Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995250289402419",
+      "@type": "la:Artwork",
+      "la:title": "Love from the Pink Palace / Jill Nalder ; with a foreword by Russell T Davies.",
+      "la:creatorImprint": "Nalder, Jill, (London : Wildfire, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995289693002419",
+      "@type": "la:Artwork",
+      "la:title": "The South African Trip / R.M. Court.",
+      "la:creatorImprint": "Court, R. M. (Bognor Regis : New Horizon, [1984])"
+    },
+    {
+      "@id": "http://linkedart.eu/995293392302419",
+      "@type": "la:Artwork",
+      "la:title": "Gilberns at Wiscombe : Gilbern cars at Wiscombe Park Hill Climb 1962-2005 / by Brian Gent.",
+      "la:creatorImprint": "Gent, Brian. (Fareham : Dennis Duck, ©2009.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995250898102419",
+      "@type": "la:Artwork",
+      "la:title": "Chwyldro ym myd darlledu : cofio 'cyfnod allweddol yn hanes darlledu yng Nghymru' / golygydd Siân Sutton.",
+      "la:creatorImprint": "Sutton, Siân, (Llanrwst : Gwasg Carreg Gwalch, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995270884402419",
+      "@type": "la:Artwork",
+      "la:title": "Run to the western shore : [a novella] / Tim Pears.",
+      "la:creatorImprint": "Pears, Tim, ([London] : Swift, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995281183502419",
+      "@type": "la:Artwork",
+      "la:title": "Tinseltown : Hollywood and the beautiful game : a match made in Wrexham / Ian Herbert.",
+      "la:creatorImprint": "Herbert, Ian (London : Headline Publishing Group, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995288795602419",
+      "@type": "la:Artwork",
+      "la:title": "Frontiers of the Roman Empire = Ffiniau'r Ymerodraeth Rufeinig / David J. Breeze. The Roman frontiers in Wales = Ffiniau rhufeinig Cymru / Peter Guest.",
+      "la:creatorImprint": "Breeze, David J. (Oxford : Archaeopress Archaeology, [2022])"
+    },
+    {
+      "@id": "http://linkedart.eu/995266397802419",
+      "@type": "la:Artwork",
+      "la:title": "The growth of law in medieval Wales, c.1100-c.1500 / Sara Elin Roberts.",
+      "la:creatorImprint": "Roberts, Sara Elin, (Woodbridge, Suffolk, UK ; Rochester, NY, USA : The Boydell Press, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995245192902419",
+      "@type": "la:Artwork",
+      "la:title": "Rebecca's country : a Welsh story of riot and resistance / Rhian E. Jones.",
+      "la:creatorImprint": "Jones, Rhian E., (Cardiff : Calon, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995289695302419",
+      "@type": "la:Artwork",
+      "la:title": "GILBERN CARS.",
+      "la:creatorImprint": "Burgess, Michael. ([S.l.] : AMBERLEY PUBLISHING, 2019.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995293236702419",
+      "@type": "la:Artwork",
+      "la:title": "A lexicon of the Central-Eastern European interwar theatre avant-garde / general editor: Dariusz Kosiński.",
+      "la:creatorImprint": "Kosiński, Dariusz, (Warsaw : Zbigniew Raszewski Theatre Institute : 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995237293002419",
+      "@type": "la:Artwork",
+      "la:title": "Ponty is it? : travels in a valleys town / Daryl Leeworthy.",
+      "la:creatorImprint": "Leeworthy, Daryl, (Cardigan : Parthian, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995268488602419",
+      "@type": "la:Artwork",
+      "la:title": "The little book of Wrexham AFC : over 170 red dragon facts & quotes! / Mark Pearson.",
+      "la:creatorImprint": "Pearson, Mark, (London : Orange Hippo!, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995245192702419",
+      "@type": "la:Artwork",
+      "la:title": "Three Viaducts : An account of the railways of Quakers' Yard / E.A. Evans.",
+      "la:creatorImprint": "Evans, E. A. ([Nelson] : [The author], [1994])"
+    },
+    {
+      "@id": "http://linkedart.eu/995270884102419",
+      "@type": "la:Artwork",
+      "la:title": "The Welsh in their history / Gwyn A. Williams.",
+      "la:creatorImprint": "Williams, Gwyn A. ([S.l.] : ROUTLEDGE, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995268490402419",
+      "@type": "la:Artwork",
+      "la:title": "Magnus Maximus : the neglected Roman emperor and his British legacy / Maxwell Craven.",
+      "la:creatorImprint": "Craven, Maxwell, (Stroud : Amberley Publishing, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995288796602419",
+      "@type": "la:Artwork",
+      "la:title": "Welsh women on this day : 366 amazing daily facts and stories / by Huw Rees and Sian Kilcoyne.",
+      "la:creatorImprint": "Rees, Huw, (Cardiff : Calon, 2025.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995250896502419",
+      "@type": "la:Artwork",
+      "la:title": "Only three votes : the battle for the political soul of Wales, Carmarthenshire, 1967-74 / Gwynoro Jones & Alun Gibbard.",
+      "la:creatorImprint": "Jones, Gwynoro, (Cardigan : Parthian Books, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995293546102419",
+      "@type": "la:Artwork",
+      "la:title": "Cynwyd Scrapbook Four / Discovering Old Welsh Houses Group, Denbighshire Branch.",
+      "la:creatorImprint": "Discovering Old Welsh Houses Group. Denbighshire Branch, ([Denbighshire] : Discovering Old Welsh Houses Group, Denbighshire Branch, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178784802419",
+      "@type": "la:Artwork",
+      "la:title": "Hanes epig / Rona Skene ; addasiad gan Elin Meek.",
+      "la:creatorImprint": "Skene, Rona, (Caerphilly : Rily, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995250914602419",
+      "@type": "la:Artwork",
+      "la:title": "An illustrated history of Welsh rugby / James Stafford ; illustrated by Raluca Moldovan.",
+      "la:creatorImprint": "Stafford, James, (Edinburgh : Polaris Publishing, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995268490202419",
+      "@type": "la:Artwork",
+      "la:title": "The last invasion : war, women and memory, 1797-1997 / Hywel M. Davies.",
+      "la:creatorImprint": "Davies, Hywel M., (Cardiff : University of Wales Press, 2025.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241390302419",
+      "@type": "la:Artwork",
+      "la:title": "Merthyr Historian. Volume 34 / Cymdeithas hanesyddol Merthyr Tudful a'r cylch = Merthyr Tydfil & District Historical Society.",
+      "la:creatorImprint": "Merthyr Tydfil Historical Society, (Merthyr Tydfil : Merthyr Tydfil Historical Society, South Wales, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995239677202419",
+      "@type": "la:Artwork",
+      "la:title": "Borderlands : The Art and Scholarship of Louise Imogen Guiney ; With Selections from Guiney's Poetry, Essays, and Letters / Edited by Jonathan Nauman and Holly Faith Nelson.",
+      "la:creatorImprint": "Nauman, Jonathan, (Bangor, Wales : The Vaughan Association, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995246388002419",
+      "@type": "la:Artwork",
+      "la:title": "The Inspired Calvin of Geneva : John Calvin and his influence / D. Ben Rees.",
+      "la:creatorImprint": "Rees, D. Ben (Liverpool : Modern Welsh Publications, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995250897702419",
+      "@type": "la:Artwork",
+      "la:title": "Voices on the Path : a history of walking in Wales / Andrew Green.",
+      "la:creatorImprint": "Green, A. M. W. (Llanrwst : Gwasg Carreg Gwalch, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995270883302419",
+      "@type": "la:Artwork",
+      "la:title": "Medieval Welsh literature and its European contexts : essays in honour of Professor Helen Fulton / edited by Victoria Flood.",
+      "la:creatorImprint": "Flood, Victoria, (Cambridge : D. S. Brewer, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241366402419",
+      "@type": "la:Artwork",
+      "la:title": "Historic Houses of Denbigh Town / Royal Commission on Ancient and Historic Monuments.",
+      "la:creatorImprint": "Royal Commission on Ancient and Historical Monuments in Wales, (Aberystwyth : Royal Commission on the Ancient and Historical Monuments of Wales, 2009.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995197688702419",
+      "@type": "la:Artwork",
+      "la:title": "Richard Douglas Gough (1797-1886) / Jon N Davies.",
+      "la:creatorImprint": "Davies, Jon N., (Swansea : Scimitar Edge an imprint of Purple Unicorn Media, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241392002419",
+      "@type": "la:Artwork",
+      "la:title": "Bucked in the yarn : the unique heritage of Coker canvas / Terry Stevens.",
+      "la:creatorImprint": "Stevens, Terry, (Llanelli : Graffeg, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241363102419",
+      "@type": "la:Artwork",
+      "la:title": "The archaeological implications of redevelopment in the historic towns of Ynys Mon - Isle of Anglesey / C.J. Delaney, I.N. Soulsby.",
+      "la:creatorImprint": "Delaney, C. J., ([Cardiff] : Urban Research Unit, Department of Archaeology, University College Cardiff, 1975.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241362902419",
+      "@type": "la:Artwork",
+      "la:title": "Romans and Countrymen : Rome meets the Iron Age in the Northern Marches : Report of the 3rd Seminar of the Old Oswestry Landscape and Archaeology Project / [issued by the Oswestry & Border History & Archaeology Group].",
+      "la:creatorImprint": "Oswestry & Border History & Archaeology Group, (Oswestry : Old Oswestry Landscape and Archaeology Project, 2009.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995237195802419",
+      "@type": "la:Artwork",
+      "la:title": "Transatlantic vistas : on the literatures of Wales and the United States / M. Wynn Thomas ; edited by Kirsti Bohata and Daniel G. Williams ; foreword by Helen Vendler.",
+      "la:creatorImprint": "Thomas, M. Wynn, (Cardiff : University of Wales Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995237195202419",
+      "@type": "la:Artwork",
+      "la:title": "Globalising Welsh studies : decolonising history, heritage, society and culture / edited by Neil Evans and Charlotte Williams.",
+      "la:creatorImprint": "Evans, Neil, (Cardiff : University of Wales Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995270883202419",
+      "@type": "la:Artwork",
+      "la:title": "Textual traditions and Medieval literary culture : essays in honour of Si&#226;n Echard / edited by William Green, Daniel Helbert, and Noëlle Phillips.",
+      "la:creatorImprint": "Green, William, (Cambridge : D.S. Brewer, 2025.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995237195002419",
+      "@type": "la:Artwork",
+      "la:title": "Putting Wales first : the political thought of Plaid Cymru. Volume 1 / Richard Wyn Jones, translated by Tom Ellis with Lowri Edwards and Richard Wyn Jones.",
+      "la:creatorImprint": "Wyn Jones, Richard, (Cardiff : University of Wales Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995301713102419",
+      "@type": "la:Artwork",
+      "la:title": "Peniel Welsh Chapel : Historic Highlights : Welsh Cooking / Peniel Welsh Chapel Association.",
+      "la:creatorImprint": "Peniel Welsh Chapel (Oshkosh, Wis.). Association, (Wisconsin : Peniel Welsh Chapel, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995289796202419",
+      "@type": "la:Artwork",
+      "la:title": "The Staff and Gardeners of Gwrych Castle / Margaret Flaherty & Eileen Maddison.",
+      "la:creatorImprint": "Flaherty, Margaret, ([Abergele] : [Margaret Flaherty and Eileen Maddison], 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995268490002419",
+      "@type": "la:Artwork",
+      "la:title": "Wales, the mercantile marine and the first world war / M.D. Matthews.",
+      "la:creatorImprint": "Matthews, M. D., (Cardiff : University of Wales Press, 2025.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995268489902419",
+      "@type": "la:Artwork",
+      "la:title": "A world of new ideas : 1650-1820. Volume One: The Isles / Paul Frame.",
+      "la:creatorImprint": "Frame, Paul (Cardiff, Wales : University of Wales Press, 2025.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995250914402419",
+      "@type": "la:Artwork",
+      "la:title": "The Celts : a sceptical history / Simon Jenkins.",
+      "la:creatorImprint": "Jenkins, Simon, (London : Profile Books Ltd, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995243390002419",
+      "@type": "la:Artwork",
+      "la:title": "Swansea and the Second World War / Bernard Lewis.",
+      "la:creatorImprint": "Lewis, Bernard, (Talybont : Y Lolfa, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241589202419",
+      "@type": "la:Artwork",
+      "la:title": "The Bleus brothers / Mike Pearce.",
+      "la:creatorImprint": "Pearce, Mike, ([East Sussex] : [Mike Pearce], 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241581602419",
+      "@type": "la:Artwork",
+      "la:title": "Target, Autumn 2004. Number 10 / Wendy Mills.",
+      "la:creatorImprint": "Mills, Wendy (Llanbedr : Llanbedr Airfield, 2004.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241390202419",
+      "@type": "la:Artwork",
+      "la:title": "Cyd-ddyheu a'i cododd hi : hanes y Blaid Lafur yng Nghymru / D. Ben Rees.",
+      "la:creatorImprint": "Rees, D. Ben (Llanofer : Melin Bapur, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241376402419",
+      "@type": "la:Artwork",
+      "la:title": "The New GWR : 25 Years of the Gloucestershire Warwickshire Railway / compiled by Steve Standbridge & David Locke.",
+      "la:creatorImprint": "Locke, David, (Caernarfon : Gloucestershire Warwickshire Railway, [2006])"
+    },
+    {
+      "@id": "http://linkedart.eu/995240964802419",
+      "@type": "la:Artwork",
+      "la:title": "Hanes capel y Tabernacl Abergwaun.",
+      "la:creatorImprint": "Tabernacl (Church : Fishguard, Wales), (Abergwaun : Capel y Tabernacl, Abergwaun, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995240964502419",
+      "@type": "la:Artwork",
+      "la:title": "Eglwys y Tabernacl, Abergwaun : Gwasanaeth i ddathlu 100 mlwyddiant adeiladu'r Festri 1908-2008 : Dydd Sul Mehefin 15fed am 10:30.",
+      "la:creatorImprint": "Tabernacl (Church : Fishguard, Wales), (Abergwaun : Eglwys y Tabernacl, 2008.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995239780102419",
+      "@type": "la:Artwork",
+      "la:title": "The little book of Welsh landmarks / Mark Rees.",
+      "la:creatorImprint": "Rees, Mark (Cheltenham : The History Press, 2025.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995239779602419",
+      "@type": "la:Artwork",
+      "la:title": "A history of Llanfihangel Rhydithon County Primary School : Radnorshire 1838-2023 / compiled by Geraint Hughes.",
+      "la:creatorImprint": "Hughes, Geraint (Dolau : Mid Border Books, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995237295802419",
+      "@type": "la:Artwork",
+      "la:title": "Dance trails of Wales : the history and progress of Welsh folk dancing / Alice E. Williams and Eifry Palfrey.",
+      "la:creatorImprint": "Williams, Alice E., (Llanrwst : Gwasg Carreg Gwalch, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995237295302419",
+      "@type": "la:Artwork",
+      "la:title": "This stolen land : a people's history of the Gwent levels / Marsha O'Mahony.",
+      "la:creatorImprint": "O'Mahony, Marsha, (Bridgend : Seren, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995237290002419",
+      "@type": "la:Artwork",
+      "la:title": "Blaencwmdulais : a short history of the social & industrial development of Onllwyn and Banwen-Pyrddin / Chris Evans.",
+      "la:creatorImprint": "Evans, Chris (Cardiff : Cymric Federation Press, 1977.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995214140402419",
+      "@type": "la:Artwork",
+      "la:title": "Aberdulais Mills in History and Art / John Walter Taylor.",
+      "la:creatorImprint": "Taylor, John Walter, (Neath : Neath Antiquarian Society, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995209609402419",
+      "@type": "la:Artwork",
+      "la:title": "'Out of sight, out of mind' : Infanticide, baby farming and abortion in South and West Wales, 1870-1922 / Shirley A. Smith.",
+      "la:creatorImprint": "Smith, Shirley A., (Roath, Cardiff : Rowanvale Books Ltd, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995209106402419",
+      "@type": "la:Artwork",
+      "la:title": "Hanes Ysgol Dihewyd : 1876-2006 / [golygwyd gan] Sian Harrand.",
+      "la:creatorImprint": "Harrand, Sian, (Dihewyd, Ceredigion, Wales : Ysgol Dihewyd, 2006.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995179069002419",
+      "@type": "la:Artwork",
+      "la:title": "Urban Development in the Victorian Era : A Case Study of Grangetown, Cardiff, 1100-1900 / Ray Noyes.",
+      "la:creatorImprint": "Noyes, Ray, ([Cardiff] : [Ray Noyes], 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995288795802419",
+      "@type": "la:Artwork",
+      "la:title": "The Arthurian world / edited by Victoria Coldham-Fussell, Miriam Edlich-Muth, and Renée Ward.",
+      "la:creatorImprint": "Coldham-Fussell, Victoria, (Abingdon, Oxon ; New York, NY : Routledge, Taylor & Francis Group, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995246392802419",
+      "@type": "la:Artwork",
+      "la:title": "Forty Years of Brown Bombers : A History of Neath and Cardiff Luxury Coaches Ltd / by Gerald Truran.",
+      "la:creatorImprint": "Truran, Gerald, (Glastonbury : Gerald H. Truran, 1971.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995266393802419",
+      "@type": "la:Artwork",
+      "la:title": "The Aerialists / Katie Munnik.",
+      "la:creatorImprint": "Munnik, Katie, (London : The Borough Press, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995179069602419",
+      "@type": "la:Artwork",
+      "la:title": "Letters from the dead / Sam Hurcom.",
+      "la:creatorImprint": "Hurcom, Sam, (London : Orion Books, 2020.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995292781902419",
+      "@type": "la:Artwork",
+      "la:title": "Moel-y-Gaer (Bodfari) : a small hillfort in Denbighshire, North Wales / Gary Lock; with contributions by John Pouncett, Derek Hamilton, Michael J. Allen, Alan J. Clapham, Simon Callery, and Stefan Gant.",
+      "la:creatorImprint": "Lock, G. R. (Oxford : Archaeopress Archaeology, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995288796002419",
+      "@type": "la:Artwork",
+      "la:title": "This is not a grail romance : understanding Historia Peredur vab Efrawc  / Natalia I Petrovskaia.",
+      "la:creatorImprint": "Petrovskaia, Natalia I., (Cardiff : University of Wales Press, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995288795902419",
+      "@type": "la:Artwork",
+      "la:title": "The historical Arthur and the Gawain poet : studies on Arthurian and other traditions / Andrew Breeze.",
+      "la:creatorImprint": "Breeze, Andrew, (Lanham : Lexington Books, [2023])"
+    },
+    {
+      "@id": "http://linkedart.eu/995216239702419",
+      "@type": "la:Artwork",
+      "la:title": "Mebl... una niña de la Patagonia / Carris Hughes Davies.",
+      "la:creatorImprint": "Hughes Davies, Carris, ([Trelew, Argentina] : Remitente Patagonia, [2023])"
+    },
+    {
+      "@id": "http://linkedart.eu/995239676502419",
+      "@type": "la:Artwork",
+      "la:title": "Birth of the red dragon : Wales and the Wars of the Roses / Stephen David.",
+      "la:creatorImprint": "David, Stephen (Stroud, Gloucestershire : Amberley Publishing, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995270883402419",
+      "@type": "la:Artwork",
+      "la:title": "Gweddnewidiadau / Gareth Evan-Jones ac Elis Dafydd.",
+      "la:creatorImprint": "Dafydd, Elis, (Talybont : Y Lolfa, 2025.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995300903502419",
+      "@type": "la:Artwork",
+      "la:title": "70 not out : a brief history of Hopkinstown Cricket Club / by Edwina Smart.",
+      "la:creatorImprint": "Smart, Edwina, ([Hopkinstown?] : [Edwina Smart], [2025])"
+    },
+    {
+      "@id": "http://linkedart.eu/995271896302419",
+      "@type": "la:Artwork",
+      "la:title": "Seiniwn Hosanna : casgliad o garolau plygain Cymraeg / golygydd: Arfon Gwilym ; trefnydd a golygydd y gerddoriaeth: Sioned Webb.",
+      "la:creatorImprint": "Gwilym, Arfon, ([Wales?], plygain.org, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995292782102419",
+      "@type": "la:Artwork",
+      "la:title": "Sea of change : 19th century maritime activity in S.E. Pembrokeshire / Anthony H. Galvin.",
+      "la:creatorImprint": "Galvin, Anthony H. (Coventry : Gaffer, 2002.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995271997002419",
+      "@type": "la:Artwork",
+      "la:title": "Pwyll y Pader : a medieval Welsh tract on the meaning of the Lord’s Prayer according to Hugh of Saint-Victor / Elena Parina and Erich Poppe ; with Sergey Ivanov.",
+      "la:creatorImprint": "Parina, Elena, ([Cork] : Cork Studies in Celtic Literatures, 2025.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995268488902419",
+      "@type": "la:Artwork",
+      "la:title": "Wrexham AFC : from the playground to the pitch / Paul Harrison.",
+      "la:creatorImprint": "Harrison, Paul, (London : Dino Books, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995288796202419",
+      "@type": "la:Artwork",
+      "la:title": "Lost realms : a history of Britain from the Romans to the Vikings / Thomas Williams.",
+      "la:creatorImprint": "Williams, Thomas J. T., (London : William Collins, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995250921702419",
+      "@type": "la:Artwork",
+      "la:title": "Cofia : cylchlythyr Cofiwn = Cofiwn newsletter",
+      "la:creatorImprint": "Pwyllgor Llenyddiaeth Cofiwn. (Pen y Bont ar Ogwr : Pwyllgor Llenyddiaeth Cofiwn, 1979-)"
+    },
+    {
+      "@id": "http://linkedart.eu/995238480302419",
+      "@type": "la:Artwork",
+      "la:title": "Sacred Places : Exploring the rich history of places of worship in the landscape of Breconshire/ Brecknock History Forum.",
+      "la:creatorImprint": "Brecknock History Forum (Brecon : Brecknock History Forum, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178785502419",
+      "@type": "la:Artwork",
+      "la:title": "Llyfr geiriau cyntaf : 5 Iaith = First words book : 5 languages / [Testun a darluniau gan] Valériane Leblond.",
+      "la:creatorImprint": "Leblond, Valériane, (Caerphilly : Rily, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241392802419",
+      "@type": "la:Artwork",
+      "la:title": "Albert 123 / Ian Brown and Eoin Clarke.",
+      "la:creatorImprint": "Brown, Ian (Llanelli : Graffeg, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995250894302419",
+      "@type": "la:Artwork",
+      "la:title": "Amser bath = Bathtime / testun [gan] Dawn Sirett ; addasiad [gan] Roger Boore.",
+      "la:creatorImprint": "Sirett, Dawn, (Caerdydd : Dref Wen, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241392602419",
+      "@type": "la:Artwork",
+      "la:title": "Fletcher's numbers / Julia Rawlinson ; illustrated by Tiphanie Beeke.",
+      "la:creatorImprint": "Rawlinson, Julia, (Llanelli : Graffeg, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178785302419",
+      "@type": "la:Artwork",
+      "la:title": "Llyfr mawr geiriau = Welsh all around / [testun gan] Elin Meek ; [darluniau gan] Valériane Leblond.",
+      "la:creatorImprint": "Meek, Elin, (Caerphilly : Rily, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178784902419",
+      "@type": "la:Artwork",
+      "la:title": "1000 o eiriau STEM / Jules Pottle ; addasiad Cymraeg: Joshua Head a Llewellyn Goff.",
+      "la:creatorImprint": "Pottle, Jules, (Caerphilly : Rily, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995244494302419",
+      "@type": "la:Artwork",
+      "la:title": "The last spell breather / Julie Pike.",
+      "la:creatorImprint": "Myerson, Julie, (Oxford : Oxford University Press, 2019.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241360802419",
+      "@type": "la:Artwork",
+      "la:title": "Where is Tish? / Written by Delyth Owen ; Illustrated by Anne Fitzgerald.",
+      "la:creatorImprint": "Owen, Delyth, ([Prestatyn] : Treehouse Tales, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995243388602419",
+      "@type": "la:Artwork",
+      "la:title": "Cyngor Call Mam Blŵi / [issued by] Ludo Studios [and] BBC Studios ; addasiad Hanna Hopwood.",
+      "la:creatorImprint": "Hopwood, Hanna Gwen, (Caerffili : Rily Publications Ltd, 2025.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178785202419",
+      "@type": "la:Artwork",
+      "la:title": "Byd y Gymraeg = world of Welsh / [testun gan] Elin Meek ; [darluniau gan] Valériane Leblond.",
+      "la:creatorImprint": "Meek, Elin, (Caerphilly : Rily, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241360902419",
+      "@type": "la:Artwork",
+      "la:title": "The Black Cat / Written by Delyth Owen ; Illustrated by Anne Fitzgerald.",
+      "la:creatorImprint": "Owen, Delyth, ([Prestatyn] : Treehouse Tales, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241593102419",
+      "@type": "la:Artwork",
+      "la:title": "Myrtle the mermaid / Susie J. Crow ; Illustrations by Delyth Francis.",
+      "la:creatorImprint": "Crow, Susie J., ([Wales] : Susie J. Crow, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241390402419",
+      "@type": "la:Artwork",
+      "la:title": "Cynan a'r tymhorau / Julia Rawlinson a Tiphanie Beeke.",
+      "la:creatorImprint": "Rawlinson, Julia, (Cardiff : Graffeg bach, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241361802419",
+      "@type": "la:Artwork",
+      "la:title": "Gŵyl y Gaeaf / Rebecca Wilson a Wayne Harris.",
+      "la:creatorImprint": "Wilson, Rebecca (Caerphilly : Rily Publications Ltd, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995225635902419",
+      "@type": "la:Artwork",
+      "la:title": "So many people know me / J.B. Evans.",
+      "la:creatorImprint": "Evans, J. B., (Colwyn Bay : Draig Press, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995239676402419",
+      "@type": "la:Artwork",
+      "la:title": "Chaloner : The Little Coffe Pot Engine / written and illustrated by Pauline Hazelwood.",
+      "la:creatorImprint": "Hazelwood, Pauline, ([Hertfordshire] : Saddletank Books, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995194372002419",
+      "@type": "la:Artwork",
+      "la:title": "Watch them grow! : Animal life cycles / James Carter and James Munro.",
+      "la:creatorImprint": "Carter, James, (Llanelli : Graffeg Limited, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995237196802419",
+      "@type": "la:Artwork",
+      "la:title": "Fallout / Lesley Parr.",
+      "la:creatorImprint": "Parr, Lesley, (London : Bloomsbury Children's Books, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995270881802419",
+      "@type": "la:Artwork",
+      "la:title": "There's an alien in my lunchbox! / Tessa Gearing ; illustrated by Chris Jevons.",
+      "la:creatorImprint": "Gearing, Tessa, (London : Andersen Press, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241361202419",
+      "@type": "la:Artwork",
+      "la:title": "Where is Sally Snail? / Written by Dylan Owen ; Illustrated by Anne Fitzgerald.",
+      "la:creatorImprint": "Owen, Dylan, ([Prestatyn] : Treehouse Tales, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241361102419",
+      "@type": "la:Artwork",
+      "la:title": "Lost in the Garden / Written by Dylan Owen ; Illustrated by Anne Fitzgerald.",
+      "la:creatorImprint": "Owen, Dylan, ([Prestatyn] : Treehouse Tales, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995288445902419",
+      "@type": "la:Artwork",
+      "la:title": "Tales from the deep. Myddfai magic. Ghost bells of the Lowlands [Second edition] / Cerys Matthews ; illustrated by Fran Evans.",
+      "la:creatorImprint": "Matthews, Cerys, (Llandysul : Pont, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241361602419",
+      "@type": "la:Artwork",
+      "la:title": "The Safari Park / Written by Dylan Owen ; Illustrated by Anne Fitzgerald.",
+      "la:creatorImprint": "Owen, Dylan, ([Prestatyn] : Treehouse Tales, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241361402419",
+      "@type": "la:Artwork",
+      "la:title": "Fun in the Park / Written by Dylan Owen ; Illustrated by Anne Fitzgerald.",
+      "la:creatorImprint": "Owen, Dylan, ([Prestatyn] : Treehouse Tales, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241361002419",
+      "@type": "la:Artwork",
+      "la:title": "The Garden Pond / Written by Dylan Owen ; Illustrated by Anne Fitzgerald.",
+      "la:creatorImprint": "Owen, Dylan, ([Prestatyn] : Treehouse Tales, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241361502419",
+      "@type": "la:Artwork",
+      "la:title": "A Day at the Seaside / Written by Dylan Owen ; Illustrated by Anne Fitzgerald.",
+      "la:creatorImprint": "Owen, Dylan, ([Prestatyn] : Treehouse Tales, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241361302419",
+      "@type": "la:Artwork",
+      "la:title": "Picnic Time / Written by Dylan Owen ; Illustrated by Anne Fitzgerald.",
+      "la:creatorImprint": "Owen, Dylan, ([Prestatyn] : Treehouse Tales, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241361702419",
+      "@type": "la:Artwork",
+      "la:title": "Party Time! / Written by Dylan Owen ; Illustrated by Anne Fitzgerald.",
+      "la:creatorImprint": "Owen, Dylan, ([Prestatyn] : Treehouse Tales, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995264294302419",
+      "@type": "la:Artwork",
+      "la:title": "Coeden Nadolig / Mena Evans ; Dyluniwyd gan E.L. ac Owain Hammonds.",
+      "la:creatorImprint": "Evans, Mena, (Llanfihangel Genau'r Glyn, Aberystwyth : Atebol, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995250911602419",
+      "@type": "la:Artwork",
+      "la:title": "Dyddiadur Dripsyn : Gelynion / Jeff Kinney ; addasiad Owain Siôn.",
+      "la:creatorImprint": "Kinney, Jeff, (Caerphilly : Rily Publications Ltd, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995237290402419",
+      "@type": "la:Artwork",
+      "la:title": "Manawydan Jones : y twrch trwyth / Alun Davies.",
+      "la:creatorImprint": "Davies, Alun (Talybont, Ceredigion : Y Lolfa, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995270697302419",
+      "@type": "la:Artwork",
+      "la:title": "Project puffin : Major and Mynah / Karen Owen ; illustrated by Louise Forshaw.",
+      "la:creatorImprint": "Owen, Karen, (Cardiff : Firefly Press, 2025.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995237290502419",
+      "@type": "la:Artwork",
+      "la:title": "Un Noswyl Nadolig / darluniau gan Miriam Bos ; addasiad Myrddin ap Dafydd.",
+      "la:creatorImprint": "Myrddin ap Dafydd, (Caerphilly : Y Dref Wen, 2020.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995250895002419",
+      "@type": "la:Artwork",
+      "la:title": "Dafydd ap Siencyn / Emrys Evans ; addasiad a thalfyriad gan Myrddin ap Dafydd.",
+      "la:creatorImprint": "Evans, Emrys, (Llanrwst : Gwasg Carreg Gwalch, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178781902419",
+      "@type": "la:Artwork",
+      "la:title": "Rhyfeddod Natur / ysgrifennwyd gan Rona Skene ; addasiad gan Sian Lewis ; [creuwyd gan] LEGO.",
+      "la:creatorImprint": "Skene, Rona, (Caerphilly : Rily Publications Ltd, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995250894702419",
+      "@type": "la:Artwork",
+      "la:title": "Galwad yr Alarch / Gill Lewis ; addasiad Elen Williams.",
+      "la:creatorImprint": "Lewis, Gill, (Llanrwst : Gwasg Carreg Gwalch, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241390502419",
+      "@type": "la:Artwork",
+      "la:title": "Megs / Meleri Wyn James.",
+      "la:creatorImprint": "Wyn James, Meleri, (Talybont, Ceredigion : Y Lolfa, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995194372302419",
+      "@type": "la:Artwork",
+      "la:title": "Y Llyfr Hel Atgofion / Louise Gooding; lluniau [gan] Erika Meza.",
+      "la:creatorImprint": "Gooding, Louise, (Llanelli : Graffeg Bach, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995263448402419",
+      "@type": "la:Artwork",
+      "la:title": "Dysgu gyda Sali Mali : byd natur / Casia William, Jacob Fell.",
+      "la:creatorImprint": "Wiliam, Casia, (Aberystwyth, Wales : Atebol, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995263448302419",
+      "@type": "la:Artwork",
+      "la:title": "Dysgu gyda Sali Mali : swyddi / Casia William ; illustrated by Jacob Fell.",
+      "la:creatorImprint": "Wiliam, Casia, (Aberystwyth : Atebol, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995288444802419",
+      "@type": "la:Artwork",
+      "la:title": "Gwyrdd Ein Byd : Natur Anhygoel Cymru / Duncan Brown ; Darluniau gan Helen Flook.",
+      "la:creatorImprint": "Brown, Duncan (Caerffili : Rily, 2025.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995270697202419",
+      "@type": "la:Artwork",
+      "la:title": "Libby and the Egyptian escapade / Jo Clarke ; illustrated by Becka Moor.",
+      "la:creatorImprint": "Clarke, Jo, (Llandaff North, Cardiff : Firefly Press, 2025.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178784802419",
+      "@type": "la:Artwork",
+      "la:title": "Hanes epig / Rona Skene ; addasiad gan Elin Meek.",
+      "la:creatorImprint": "Skene, Rona, (Caerphilly : Rily, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995243388702419",
+      "@type": "la:Artwork",
+      "la:title": "Esgusion Ardderchog (a mwy o stwff da) [Ailargraffiad] / Liz Pichon ; Addasiad Gareth F. Williams.",
+      "la:creatorImprint": "Pichon, Liz, (Caerffili : Rily, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995264295502419",
+      "@type": "la:Artwork",
+      "la:title": "Traed budr / Mena Evans ; Dyluniwyd gan E.L. ac Owain Hammonds.",
+      "la:creatorImprint": "Evans, Mena, (Llanfihangel Genau'r Glyn, Aberystwyth : Atebol, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995264295202419",
+      "@type": "la:Artwork",
+      "la:title": "Esgidiau newydd / Mena Evans ; Dyluniwyd gan E.L. ac Owain Hammonds.",
+      "la:creatorImprint": "Evans, Mena, (Llanfihangel Genau'r Glyn, Aberystwyth : Atebol, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995264295102419",
+      "@type": "la:Artwork",
+      "la:title": "Esgid ar goll / Mena Evans ; Dyluniwyd gan E.L. ac Owain Hammonds.",
+      "la:creatorImprint": "Evans, Mena, (Llanfihangel Genau'r Glyn, Aberystwyth : Atebol, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995264295002419",
+      "@type": "la:Artwork",
+      "la:title": "Esgidiau glaw / Mena Evans ; Dyluniwyd gan E.L. ac Owain Hammonds.",
+      "la:creatorImprint": "Evans, Mena, (Llanfihangel Genau'r Glyn, Aberystwyth : Atebol, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995264294902419",
+      "@type": "la:Artwork",
+      "la:title": "Siop esgidiau / Menna Evans ; Dyluniwyd gan E.L. ac Owain Hammonds.",
+      "la:creatorImprint": "Evans, Mena, (Llanfihangel Genau'r Glyn, Aberystwyth : Atebol, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995264294802419",
+      "@type": "la:Artwork",
+      "la:title": "Rhy fawr, rhy fach / Mena Evans ; Dyluniwyd gan E.L. ac Owain Hammonds.",
+      "la:creatorImprint": "Evans, Mena, (Llanfihangel Genau'r Glyn, Aberystwyth : Atebol, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995264294702419",
+      "@type": "la:Artwork",
+      "la:title": "Cyngerdd Gŵyl Dewi / Menna Evans ; Dyluniwyd gan E.L. ac Owain Hammonds.",
+      "la:creatorImprint": "Evans, Mena, (Llanfihangel Genau'r Glyn, Aberystwyth : Atebol, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995264294502419",
+      "@type": "la:Artwork",
+      "la:title": "Wyau Pasg / Mena Evans ; Dyluniwyd gan E.L. ac Owain Hammonds.",
+      "la:creatorImprint": "Evans, Mena, (Llanfihangel Genau'r Glyn, Aberystwyth : Atebol, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995264294402419",
+      "@type": "la:Artwork",
+      "la:title": "Beth sydd yn y parsel? / Mena Evans ; Dyluniwyd gan E.L. ac Owain Hammonds.",
+      "la:creatorImprint": "Evans, Mena, (Llanfihangel Genau'r Glyn, Aberystwyth : Atebol, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995264290502419",
+      "@type": "la:Artwork",
+      "la:title": "Bwystfilod bach = Little monsters / David Walliams ; Lluniau gan yr anhygoel Adam Stower ; Addasiad, Casia Wiliam.",
+      "la:creatorImprint": "Walliams, David, (Aberystwyth : Atebol, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995264290002419",
+      "@type": "la:Artwork",
+      "la:title": "Marmalêd : Y Panda Bach Oren = Marmalade : The Orange Panda / David Walliams ; lluniau gan Adam Stower ; addasiad, Eurig Salisbury.",
+      "la:creatorImprint": "Walliams, David, (Aberystwyth : Atebol, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995264289702419",
+      "@type": "la:Artwork",
+      "la:title": "Nain-gu-sawrws = Grannysaurus / David Walliams ; lluniau gan Adam Stower ; addasiad, Eurig Salisbury.",
+      "la:creatorImprint": "Walliams, David, (Aberystwyth : Atebol, [2023])"
+    },
+    {
+      "@id": "http://linkedart.eu/995264288002419",
+      "@type": "la:Artwork",
+      "la:title": "Bwystfilod Bach am Byth! = Little Monsters Rule! / David Walliams ; Lluniau gan yr anhygoel Adam Stower ; Addasiad, Manon Steffan Ros.",
+      "la:creatorImprint": "Walliams, David, (Aberystwyth : Atebol, [2024])"
+    },
+    {
+      "@id": "http://linkedart.eu/995250911302419",
+      "@type": "la:Artwork",
+      "la:title": "Geiriau o Gariad = Words of love / Jake Biggin ; addasiad Llinos Dafydd.",
+      "la:creatorImprint": "Biggin, Jake, (Caerphilly : Rily Publications Ltd, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995250911202419",
+      "@type": "la:Artwork",
+      "la:title": "Y Ransh ym Mhen Draw'r Byd / Emma Bettridge ; darluniau gan Josephine Birch ; addasiad Cymraeg gan Sioned Erin Hughes.",
+      "la:creatorImprint": "Bettridge, Emma, (Llanelli : Cadno Books, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995250894502419",
+      "@type": "la:Artwork",
+      "la:title": "Pen-blwydd Hapus, Gryffalo! / Julia Donaldson, Axel Scheffler ; addasiad Gwynne Williams.",
+      "la:creatorImprint": "Donaldson, Julia, (Caerdydd : Dref Wen, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995250894002419",
+      "@type": "la:Artwork",
+      "la:title": "The ranch at the end of the world / Emma Bettridge ; illustrations by Josephine Birch.",
+      "la:creatorImprint": "Bettridge, Emma, (Llanelli : Cadno Books, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995250893902419",
+      "@type": "la:Artwork",
+      "la:title": "Zac and Jac / Cathy Jenkins ; illustrations by Monique Steele.",
+      "la:creatorImprint": "Jenkins, Cathy (Llanelli : Cadno Books, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995250893802419",
+      "@type": "la:Artwork",
+      "la:title": "Zac a Jac / Cathy Jenkins ; darluniadau gan Monqiue Steele ; addasiad Cymraeg gan Ceri Wyn Jones.",
+      "la:creatorImprint": "Jenkins, Cathy (Llanelli : Cadno Books, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995245292902419",
+      "@type": "la:Artwork",
+      "la:title": "Pam ti'n chwerthin? / Iwan Pitts.",
+      "la:creatorImprint": "Pitts, Iwan, (Talybont : Y Lolfa, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241589702419",
+      "@type": "la:Artwork",
+      "la:title": "The Bronze Mirror / Margaret Iggulden.",
+      "la:creatorImprint": "Iggulden, Margaret, ([Monmouth] : Three Oak Leaves Press, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241392502419",
+      "@type": "la:Artwork",
+      "la:title": "You and Rabbit make a snowman / Jemma & Tiphanie Beeke.",
+      "la:creatorImprint": "Beeke, Jemma, (Cardiff : Graffeg, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241390602419",
+      "@type": "la:Artwork",
+      "la:title": "Disgyblion B / Rhiannon Lloyd Williams.",
+      "la:creatorImprint": "Lloyd Williams, Rhiannon, (Talybont, Ceredigion : Y Lolfa, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241361902419",
+      "@type": "la:Artwork",
+      "la:title": "The Winter Festival / Rebecca Wilson and Wayne Harris.",
+      "la:creatorImprint": "Wilson, Rebecca (Caerphilly : Dragon Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995239779702419",
+      "@type": "la:Artwork",
+      "la:title": "Dai rescues Christmas in Llanipandy / written by David Hale, illustrated by Nicholas Child.",
+      "la:creatorImprint": "Hale, David, ([Northampton] : David Hale, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995237290602419",
+      "@type": "la:Artwork",
+      "la:title": "Gryffalo, Ble Rwyt Ti? / yn seiliedig ar y llyfr stori-a-llun gan Julia Donaldson ac Axel Scheffler ; Addaswyd gan Elin Meek = Gruffalo, where are you? / Based on the picture book by Julia Donaldson, Axel Scheffler",
+      "la:creatorImprint": "Donaldson, Julia, (Cardiff : Dref Wen, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178785102419",
+      "@type": "la:Artwork",
+      "la:title": "Ar y fferm = Farm friends / Elizabeth Cooke ; darluniau gan Wendy Kendall ; addasiad Llinos Dafydd.",
+      "la:creatorImprint": "Cooke, Elizabeth (Caerphilly : Rily, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178782002419",
+      "@type": "la:Artwork",
+      "la:title": "Cŵn bach chwilio ac achub / addasiad Catrin Wyn Lewis.",
+      "la:creatorImprint": "Lewis, Catrin Wyn, (Caerphilly : Rily, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995177903302419",
+      "@type": "la:Artwork",
+      "la:title": "Santa's Greatest Secret / Lyndon Jeremiah ; Illustrated by Jennie Harmer.",
+      "la:creatorImprint": "Jeremiah, Lyndon, ([Neath?] : Jeremiah Publishing, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995160105702419",
+      "@type": "la:Artwork",
+      "la:title": "Twm a'r Trysor / Ysgrifennwyd gan Sufia Ahmed ; Arlunwaith gan Beck Moor ; Addasiad Cymraeg gan Manon Steffan Ros.",
+      "la:creatorImprint": "Ahmed, Sufiya, (Aberystwyth : Atebol Cyfyngedig, [2023])"
+    },
+    {
+      "@id": "http://linkedart.eu/995160105302419",
+      "@type": "la:Artwork",
+      "la:title": "Pump Prysur a'r Ci Coll / Ysgrifennwyd gan Sufia Ahmed ; Arlunwaith gan Beck Moor ; Addasiad Cymraeg gan Manon Steffan Ros.",
+      "la:creatorImprint": "Ahmed, Sufiya, (Aberystwyth : Atebol Cyfyngedig, [2023])"
+    },
+    {
+      "@id": "http://linkedart.eu/995264292302419",
+      "@type": "la:Artwork",
+      "la:title": "Sawl Bwci Bo? = How many Bwci Bos? / Joanna Davies ; illustrated by Steven Goldstone.",
+      "la:creatorImprint": "Davies, Joanna, (Aberystwyth : Atebol, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995264299102419",
+      "@type": "la:Artwork",
+      "la:title": "Dysgu gyda Sali Mali : byd o ddathlu / Casia Wiliam ; illustrated by Jacob Fell.",
+      "la:creatorImprint": "Wiliam, Casia, (Aberystwyth : Atebol, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995264298702419",
+      "@type": "la:Artwork",
+      "la:title": "Dweud yr amser gyda Cadi a Jac = Telling the time with Cadi and Jac / Heather Amery ; illustrated by Stephen Cartwright ; translated by Bethan Mai Jones.",
+      "la:creatorImprint": "Amery, Heather, (Aberystwyth : Atebol, 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995263448602419",
+      "@type": "la:Artwork",
+      "la:title": "Yr orsaf dân / translated by Bethan Mai Jones. [Argraffiad dwyieithog]",
+      "la:creatorImprint": "Jones, Bethan Mai, (Aberystwyth : Atebol, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995293184002419",
+      "@type": "la:Artwork",
+      "la:title": "Owen a'r octopws / Caryl Lewis.",
+      "la:creatorImprint": "Lewis, Caryl, (Talybont : Y Lolfa, 2025.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995288443302419",
+      "@type": "la:Artwork",
+      "la:title": "Fy bindi / Gita Varadarajan ; illustrated by Archana Sreenivasan ; translated by Anwen Pierce.",
+      "la:creatorImprint": "Varadarajan, Gita, (Cardiff : Graffeg Bach, 2025.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995264290702419",
+      "@type": "la:Artwork",
+      "la:title": "Douglas yn chwarae cuddio / David Melling ; translated by Manon Steffan Ros.",
+      "la:creatorImprint": "Steffan Ros, Manon, (Aberystwyth : Atebol, 2019.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995193900302419",
+      "@type": "la:Artwork",
+      "la:title": "Diwygio Rheolau Sefydlog : Rheol Sefydlog 29.1 (Cydsyniad mewn Perthynas â Biliau Senedd y DU) / Senedd Cymru, Y Pwyllgor Busnes = Amending Standing Orders : Standing Order 29.1 (Consent in relation to UK Parliament Bills) / Welsh Parliament, Business Committee.",
+      "la:creatorImprint": "Wales. Business Committee, (Cardiff Bay : Welsh Parliament, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995216240302419",
+      "@type": "la:Artwork",
+      "la:title": "Deddf Cyllid Llywodraeth Leol (Cymru) 2024 : 2024 dsc 6 / TSO = Local Government Finance (Wales) Act 2024 : 2024 asc 6 / TSO.",
+      "la:creatorImprint": "Stationery Office (Great Britain), (Norwich : TSO, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995169952902419",
+      "@type": "la:Artwork",
+      "la:title": "Memorandwm Cydsyniad Deddfwriaethol Llywodraeth Cymru ar y Bil Rhentwyr (Diwygio) / Senedd Cymru, Y Pwyllgor Deddfwriaeth, Cyfiawnder a'r Cyfansoddiad = The Welsh Government's Legislative Consent Memorandum on the Renters (Reform) Bill / Welsh Parliament, Legislation, Justice and Constitution Committee.",
+      "la:creatorImprint": "Wales. Legislation, Justice and Constitution Committee, (Bae Caerdydd : Senedd Cymru, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995169952802419",
+      "@type": "la:Artwork",
+      "la:title": "Memorandwm Cydsyniad Deddfwriaethol Atodol Llywodraeth Cymru (Memorandwm Rhif 3) ar y Bil Cerbydau Awtomeiddiedig / Senedd Cymru, Y Pwyllgor Deddfwriaeth, Cyfiawnder a'r Cyfansoddiad = The Welsh Government's Supplementary Legislative Consent Memorandum (Memorandum No.3) on the Automated Vehicles Bill / Welsh Parliament, Legislation, Justice and Constitution Committee.",
+      "la:creatorImprint": "Wales. Legislation, Justice and Constitution Committee, (Bae Caerdydd : Senedd Cymru, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995169952602419",
+      "@type": "la:Artwork",
+      "la:title": "Memorandwm Cydsyniad Deddfwriaethol Atodol Llywodraeth Cymru (Memorandwm Rhif 2) ar y Bil Dioddefwyr a Charcharorion / Senedd Cymru, Y Pwyllgor Deddfwriaeth, Cyfiawnder a'r Cyfansoddiad = The Welsh Government's Supplementary Legislative Consent Memorandum (Memorandum No.2) on the Victims and Prisoners Bill / Welsh Parliament, Legislation, Justice and Constitution Committee.",
+      "la:creatorImprint": "Wales. Legislation, Justice and Constitution Committee, (Bae Caerdydd : Senedd Cymru, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995169952502419",
+      "@type": "la:Artwork",
+      "la:title": "Memorandwm Cydsyniad Deddfwriaethol Llywodraeth Cymru ar y Bil Cerbydau Awtomeiddiedig / Senedd Cymru, Y Pwyllgor Deddfwriaeth, Cyfiawnder a'r Cyfansoddiad = The Welsh Government's Legislative Consent Memorandum on the Automated Vehicles Bill / Welsh Parliament, Legislation, Justice and Constitution Committee.",
+      "la:creatorImprint": "Wales. Legislation, Justice and Constitution Committee, (Bae Caerdydd : Senedd Cymru, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995169950802419",
+      "@type": "la:Artwork",
+      "la:title": "Adroddiad ar y Memoranda Cydsyniad Deddfwriaethol ar gyfer y Bil Cerbydau Awtomeiddiedig / Senedd Cymru, Y Pwyllgor Newid Hinsawdd, yr Amgylchedd a Seilwaith = Report on Legislative Consent Memoranda for the Automated Vehicle Bill / Welsh Parliament, Climate Change, Environment, and Infrastructure Committee.",
+      "la:creatorImprint": "Wales. Climate Change, Environment, and Infrastructure Committee, (Bae Caerdydd : Senedd Cymru, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995169949502419",
+      "@type": "la:Artwork",
+      "la:title": "Adroddiad ar Femorandwm Cydsyniad Deddfwriaethol y Bil Rhentwyr (Diwygio) / Senedd Cymru, Y Pwyllgor Llywodraeth Leol a Thai = Report on the Legislative Consent Memorandum for the Renters (Reform) Bill / Welsh Parliament, Local Government and Housing Committee.",
+      "la:creatorImprint": "Wales. Local Government and Housing Committee, (Bae Caerdydd : Senedd Cymru, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995169948602419",
+      "@type": "la:Artwork",
+      "la:title": "Adroddiad ar y Memorandwm Cydsyniad Deddfwriaethol Atodol (Rhif 3) ar gyfer y Bil Diwygio Cyfraith Lesddaliad a Rhydd-ddaliad / Senedd Cymru, Y Pwyllgor Llywodraeth Leol a Thai = Report on the Supplementary Legislative Consent Memorandum (No.3) for the Leasehold and Freehold Reform Bill / Welsh Parliament, Local Government and Housing Committee.",
+      "la:creatorImprint": "Wales. Local Government and Housing Committee, (Bae Caerdydd : Senedd Cymru, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995165082302419",
+      "@type": "la:Artwork",
+      "la:title": "Adroddiad ar Fil Senedd Cymru (Rhestrau Ymgeiswyr Etholiadol) / Senedd Cymru, Y Pwyllgor Deddfwriaeth, Cyfiawnder a'r Cyfansoddiad = Report on the Senedd Cymru (Electoral Candidates Lists) Bill / Welsh Parliament, Legislation, Justice and Constitution Committee.",
+      "la:creatorImprint": "Wales. Legislation, Justice and Constitution Committee, (Cardiff Bay : Senedd Cymru, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995165081202419",
+      "@type": "la:Artwork",
+      "la:title": "Deddf Lefelau Staff Nyrsio (Cymru) 2016 : Gwaith craffu ar ôl deddfu / Senedd Cymru, Y Pwyllgor Iechyd a Gofal Cymdeithasol = Nurse Staffing Levels (Wales) Act 2016 : Post-legislative Scrutiny / Welsh Parliament, Health and Social Care Committee.",
+      "la:creatorImprint": "Wales. Health and Social Care Committee, (Cardiff Bay : Senedd Cymru, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995165080602419",
+      "@type": "la:Artwork",
+      "la:title": "Bil Senedd Cymru (Rhestrau Ymgeiswyr Etholiadol) : Adroddiad Cyfnod 1 / Senedd Cymru, Y Pwyllgor Biliau Diwygio = Senedd Cymru (Electoral Candidate Lists) Bill : Stage 1 Report / Welsh Parliament, Reform Bill Committee.",
+      "la:creatorImprint": "Wales. Reform Bill Committee, (Cardiff Bay : Senedd Cymru, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995159906202419",
+      "@type": "la:Artwork",
+      "la:title": "Deddf Seilwaith (Cymru) 2024 : 2024 dsc 3 =  Infrastructure (Wales) Act 2024 : 2024 asc 3.",
+      "la:creatorImprint": "Wales. Senedd, ([Cardiff Bay] : Senedd Cymru, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995142699502419",
+      "@type": "la:Artwork",
+      "la:title": "Cyllideb ddrafft llywodraeth Cymru 2024-25 / Senedd Cymru, Y Pwyllgor Plant, Pobl Ifanc ac Addysg = The Welsh government's draft budget 2024-35 / Welsh Parliament, Children, Young People and Education Committee.",
+      "la:creatorImprint": "Wales. Children, Young People and Education Committee, (Bae Caerdydd : Senedd Cymru, [2024])"
+    },
+    {
+      "@id": "http://linkedart.eu/995142699302419",
+      "@type": "la:Artwork",
+      "la:title": "Bil Senedd Cymru (Aelodau ac Etholiadau) : Adroddiad Cyfnod 1 / Senedd Cymru, Y Pwyllgor Biliau Diwygio = Senedd Cymru (Members and Elections) Bill : Stage 1 Report / Welsh Parliament, Reform Bill Committee.",
+      "la:creatorImprint": "Wales. Reform Bill Committee, (Cardiff Bay : Welsh Parliament, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995142699102419",
+      "@type": "la:Artwork",
+      "la:title": "Bil Cyllid Llywodraeth Leol (Cymru) : Adroddiad Cyfnod 1 / Senedd Cymru, Y Pwyllgor Llywodraeth Leol a Thai = Local Government Finance (Wales) : Stage 1 Report / Welsh Parliament, Local Government and Housing Committee.",
+      "la:creatorImprint": "Wales. Local Government and Housing Committee, (Cardiff Bay : Welsh Parliament, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995142698902419",
+      "@type": "la:Artwork",
+      "la:title": "Gwaith craffu ar gyllideb ddrafft Llywodraeth Cymru 2024-25 / Senedd Cymru, Y Pwyllgor Cyllid = Scrutiny of the Welsh Government Draft Budget 2024-25 / Welsh Parliament, Finance Committee.",
+      "la:creatorImprint": "Wales. Finance Committee, (Cardiff Bay : Welsh Parliament, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995068009102419",
+      "@type": "la:Artwork",
+      "la:title": "Diwygio Rheolau Sefydlog : Gwneud offerynnau statudol yn dilyn ymadawiad y DU a'r UE / Senedd Cymru, Y Pwyllgor Busnes = Amending Standing Orders : The making of statutory instruments following EU withdrawal / Welsh Parliament, Business Committee.",
+      "la:creatorImprint": "Wales. Business Committee, (Cardiff Bay : Welsh Parliament, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995068007702419",
+      "@type": "la:Artwork",
+      "la:title": "Memoranda cydsyniad deddfwriaethol Llywodraeth Cymru ar y Bil Ynni / Senedd Cymru, Y Pwyllgor Deddfwriaeth, Cyfiawnder a'r Cyfansoddiad = The Welsh Government's legislative consent memoranda on the Energy Bill / Welsh Parliament, Legislation, Justice and Constitution Committee.",
+      "la:creatorImprint": "Wales. Legislation, Justice and Constitution Committee, (Cardiff Bay : Welsh Parliament, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995068007502419",
+      "@type": "la:Artwork",
+      "la:title": "Memorandwm Cydsyniad Deddfwriaethol Llywodraeth Cymru ar y Bil Ardrethu Annomestig / Senedd Cymru, Y Pwyllgor Deddfwriaeth, Cyfiawnder a'r Cyfansoddiad =The Welsh Government's Legislative Consent Memorandum on the Non-Domestic Rating Bill / Welsh Parliament, Legislation, Justice and Constitution Committee.",
+      "la:creatorImprint": "Wales. Legislation, Justice and Constitution Committee, (Cardiff Bay : Welsh Parliament, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995068007402419",
+      "@type": "la:Artwork",
+      "la:title": "Memorandwm Cydsyniad Deddfwriaethol Llywodraeth Cymru ar y Bil Gweithgarwch Economaidd Cyrff Cyhoeddus (Materion Tramor) / Y Pwyllgor Deddfwriaeth, Cyfiawnder a'r Cyfansoddiad = The Welsh Government's Legislative Consent Memorandum on the Economic Activity of Public Bodies (Overseas Matters) Bill / Legislation, Justice and Constitution Committee.",
+      "la:creatorImprint": "Wales. Legislation, Justice and Constitution Committee, (Cardiff Bay : Welsh Parliament, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995068007202419",
+      "@type": "la:Artwork",
+      "la:title": "Cydsyniad Deddfwriaethol Atodol (Memorandwm Rhif 2) Llywodraeth Cymru ar y Bil Ardrethu Annomestig / Senedd Cymru, Y Pwyllgor Deddfwriaeth, Cyfiawnder a'r Cyfansoddiad = The Welsh Government's Legislative Consent Memorandum (Memorandum No. 2) on the Non-Domestic Rating Bill / Welsh Parliament, Legislation, Justice and Constitution Committee.",
+      "la:creatorImprint": "Wales. Legislation, Justice and Constitution Committee, (Cardiff Bay : Welsh Parliament, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995068007102419",
+      "@type": "la:Artwork",
+      "la:title": "Adroddiad ar y Memorandwm Cydsyniad Deddfwriaethol ar gyfer y Bil Ardrethu Annomestig / Senedd Cymru, Y Pwyllgor Llywodraeth Leol a Thai = Report on the Legislative Consent Memorandum for the Non-Domestic Rating Bill / Welsh Parliament, Local Government and Housing Committee.",
+      "la:creatorImprint": "Wales. Local Government and Housing Committee, (Cardiff Bay : Welsh Parliament, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995094308102419",
+      "@type": "la:Artwork",
+      "la:title": "Cymru gudd / Dylan Arnold.",
+      "la:creatorImprint": "Arnold, Dylan (Talybont, Ceredigion : Y Lolfa, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995223840702419",
+      "@type": "la:Artwork",
+      "la:title": "Photographing the night sky : technique, planning & processing / by Alyn Wallace ; [edited by Mick Ryan and Susie Ryder].",
+      "la:creatorImprint": "Wallace, Alyn, ([Hebden Bridge] : fotoVUE, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995170008502419",
+      "@type": "la:Artwork",
+      "la:title": "Brutal Wales = Cymru friwtalaidd / Simon Phipps.",
+      "la:creatorImprint": "Phipps, Simon, ([Richmond] : September Publishing, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995215037502419",
+      "@type": "la:Artwork",
+      "la:title": "Cader Idris : soul of a lonely place / Pete Davis.",
+      "la:creatorImprint": "Davis, Pete, ([Alltyblaca] : Pete Davis, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995194378502419",
+      "@type": "la:Artwork",
+      "la:title": "Queen from no scene / Billie Charity & Dean Goodwin-Evans.",
+      "la:creatorImprint": "Charity, Billie, (Llanelli : Graffeg, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995265997502419",
+      "@type": "la:Artwork",
+      "la:title": "On instagram / David Hurn ; editor-in-chief: Tony Nourmand.",
+      "la:creatorImprint": "Hurn, David, (London : Reel Art Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995175608502419",
+      "@type": "la:Artwork",
+      "la:title": "British wildlife photography awards 2024 / edited by Will Nicholls.",
+      "la:creatorImprint": "Nicholls, Will (Cardiff : Bird Eye Books, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995215036702419",
+      "@type": "la:Artwork",
+      "la:title": "Innocence of eye / Photographs and text: Pete Davis.",
+      "la:creatorImprint": "Davis, Pete, ([Alltyblaca] : Pete Davis, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995197709402419",
+      "@type": "la:Artwork",
+      "la:title": "The lazy photographer's guide to Anglesey and north Wales / Ste Maguire.",
+      "la:creatorImprint": "Maguire, Ste, (Kings Lynn : Biddles Books, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995270884602419.0",
+      "@type": "la:Artwork",
+      "la:title": "Feather, leaf, bark & stone / Jackie Morris.",
+      "la:creatorImprint": "Morris, Jackie, (London : Unbound, 2022.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995292787702419.0",
+      "@type": "la:Artwork",
+      "la:title": "Real boys / Thomas Stewart.",
+      "la:creatorImprint": "Stewart, Thomas, (Edinburgh : Polygon, [2024])"
+    },
+    {
+      "@id": "http://linkedart.eu/995293393502419.0",
+      "@type": "la:Artwork",
+      "la:title": "Back teeth / Taylor Edmonds.",
+      "la:creatorImprint": "Edmonds, Taylor, (Wales : Broken Sleep Books, [2022])"
+    },
+    {
+      "@id": "http://linkedart.eu/995288446802419.0",
+      "@type": "la:Artwork",
+      "la:title": "Cling Film / Bethany Handley.",
+      "la:creatorImprint": "Handley, Bethany, (Bridgend : Seren, [2025])"
+    },
+    {
+      "@id": "http://linkedart.eu/995292786702419.0",
+      "@type": "la:Artwork",
+      "la:title": "The silence / Gillian Clarke.",
+      "la:creatorImprint": "Clarke, Gillian, (Manchester : Carcanet, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995270882302419.0",
+      "@type": "la:Artwork",
+      "la:title": "Cowboy / Kandace Siobhan Walker.",
+      "la:creatorImprint": "Walker, Kandace Siobhan, ([London] : Cheerio, 2023.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995293237602419.0",
+      "@type": "la:Artwork",
+      "la:title": "Afonydd : poems for Welsh Rivers = cerddi afonydd Cymru / edited by Sian Northey & Ness Owen ; translated by Sian Northey, Siôn Aled, Ness Owen, Emma Baines & the authors = golygwyd gan Sian Northey & Ness Owen ; cyfieithwyd gan Sian Northey, Siôn Aled, Ness Owen, Emma Baines a'r awduron.",
+      "la:creatorImprint": "Northey, Siân, (London : Arachne Press, 2025.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995292788802419.0",
+      "@type": "la:Artwork",
+      "la:title": "Healing the pack / Clare E. Potter.",
+      "la:creatorImprint": "Potter, Clare E., (Birmingham : Verve Poetry Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995245292502419.0",
+      "@type": "la:Artwork",
+      "la:title": "Fruits of labour / Betty Doyle.",
+      "la:creatorImprint": "Doyle, Betty, (Bridgend : Seren Books, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995292786502419.0",
+      "@type": "la:Artwork",
+      "la:title": "girls etc. / Rhian Elizabeth",
+      "la:creatorImprint": "Elizabeth, Rhian, (Llandysul, Wales Broken Sleep Books / 2024)"
+    },
+    {
+      "@id": "http://linkedart.eu/995285797002419.0",
+      "@type": "la:Artwork",
+      "la:title": "First rain in paradise / Gwyneth Lewis.",
+      "la:creatorImprint": "Lewis, Gwyneth, (Hexham, Northumberland : Bloodaxe Books Ltd., 2025.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995240981902419.0",
+      "@type": "la:Artwork",
+      "la:title": "Opening the Present : Poems for York / John Beynon.",
+      "la:creatorImprint": "Beynon, John (Birmingham : Cannon Poets Publishing, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995245293202419.0",
+      "@type": "la:Artwork",
+      "la:title": "Little universe / Natalie Ann Holborow.",
+      "la:creatorImprint": "Holborow, Natalie Ann, (Cardigan : Parthian, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995288796502419.0",
+      "@type": "la:Artwork",
+      "la:title": "The Art of Losing : Twelve Welsh Poems on Grief and Consolation / M. Wynn Thomas.",
+      "la:creatorImprint": "Thomas, M. Wynn, ([Place of publication not identified] : Calon, 2025.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995245292602419.0",
+      "@type": "la:Artwork",
+      "la:title": "Portrait in mustard / Wendy Allen.",
+      "la:creatorImprint": "Allen, Wendy (Bridgend : Seren, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995243388902419.0",
+      "@type": "la:Artwork",
+      "la:title": "Rhwng dau feddwl / Christine James.",
+      "la:creatorImprint": "James, Christine, ([Caernarfon] : Cyhoeddiadau Barddas, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241392102419.0",
+      "@type": "la:Artwork",
+      "la:title": "Blue heart : words and illustrations about whales / Nicola Davies.",
+      "la:creatorImprint": "Davies, Nicola, (Llanelli : Graffeg Limited, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241389502419.0",
+      "@type": "la:Artwork",
+      "la:title": "Atgof a Cherddi Eraill / E. Prosser Rhys ; gyda rhagair gan Gareth Evans-Jones.",
+      "la:creatorImprint": "Rhys, Prosser, (Llanofer : Melin Bapur, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995292788202419.0",
+      "@type": "la:Artwork",
+      "la:title": "Spilling histories / Clare Potter.",
+      "la:creatorImprint": "Potter, Clare. (Blaenau Ffestiniog, Gwynedd [Wales] : Cinnamon Press, ©2006.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995250914502419.0",
+      "@type": "la:Artwork",
+      "la:title": "Nature of Reality : Poems / Julie Kirby.",
+      "la:creatorImprint": "Kirby, Julie, (Pembrokeshire : Living Land Publishing, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995250318302419.0",
+      "@type": "la:Artwork",
+      "la:title": "E-Mail from the soul : new & selected leadership poems [Second edition] / William Ayot.",
+      "la:creatorImprint": "Ayot, William, (Chepstow : Sleeping Mountain Press, 2014.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995250317502419.0",
+      "@type": "la:Artwork",
+      "la:title": "Within the Past : Poems of Merthyr / Ashley O'Keefe.",
+      "la:creatorImprint": "O'Keefe, Ashley, ([Merthyr Tydfil] : [Ashley O'Keefe], 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995245292802419.0",
+      "@type": "la:Artwork",
+      "la:title": "Rhaff / Mari George.",
+      "la:creatorImprint": "George, Mari, ([Cricieth] : Cyhoeddiadau Barddas, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995245292702419.0",
+      "@type": "la:Artwork",
+      "la:title": "Bachgen Bach o Bonty / Aneirin Karadog.",
+      "la:creatorImprint": "Karadog, Aneirin, ([Cricieth] : Cyhoeddiadau Barddas, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995244494202419.0",
+      "@type": "la:Artwork",
+      "la:title": "Scribbles from The Hills : Abergavenny Writing Group Anthology. Volume 1.",
+      "la:creatorImprint": "Abergavenny Writing Group, (Abergavenny : [Sharon Brace on behalf of the Abergavenny Writing Group], 2020.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995243388802419.0",
+      "@type": "la:Artwork",
+      "la:title": "deud llai / Dafydd John Pritchard.",
+      "la:creatorImprint": "Pritchard, Dafydd John, ([Caernarfon] : Cyhoeddiadau Barddas, 2025.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241389802419.0",
+      "@type": "la:Artwork",
+      "la:title": "Dinistr Jerusalem a Cherddi Eraill / Eben Fardd.",
+      "la:creatorImprint": "Eben Fardd, (Llanofer : Melin Bapur, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995241389602419.0",
+      "@type": "la:Artwork",
+      "la:title": "Yr Ysmygwr : Rhyddiaith Fer a Barddoniaeth / Daniel Owen ; golygwyd gan Adam Pearce.",
+      "la:creatorImprint": "Owen, Daniel, ([Llanofer] : Melin Bapur, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995237292602419.0",
+      "@type": "la:Artwork",
+      "la:title": "Dyn ar dân / Martin Huws.",
+      "la:creatorImprint": "Huws, Martin, (Caernarfon, Gwynedd : Gwasg y Bwthyn, [2024])"
+    },
+    {
+      "@id": "http://linkedart.eu/995234694702419.0",
+      "@type": "la:Artwork",
+      "la:title": "sHumbert sHumbert / Rhea Seren Phillips.",
+      "la:creatorImprint": "Phillips, Rhea Seren, ([Wales] : The Literary Pocket Book, 2020.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995285796902419.0",
+      "@type": "la:Artwork",
+      "la:title": "Unspoken / Channing Davies.",
+      "la:creatorImprint": "Davies, Channing, (Cilfynydd : Fat Bob Publishing, 2025.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995259197102419.0",
+      "@type": "la:Artwork",
+      "la:title": "Clay : Poems / By Vasile Serban.",
+      "la:creatorImprint": "Serban, Vasile, ([Wales?] : [Vasile Serban], [2024])"
+    },
+    {
+      "@id": "http://linkedart.eu/995241382002419.0",
+      "@type": "la:Artwork",
+      "la:title": "Cerddi 1939-1941 / Selma Meerbaum ; Cyfieithwyd o'r Almaeneg gyda rhagymadrodd gan Mary Burdett-Jones.",
+      "la:creatorImprint": "Meerbaum-Eisinger, Selma, ([Wales] : Melin Bapur, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995092993702419.0",
+      "@type": "la:Artwork",
+      "la:title": "Low Clouds in High Places / by Yvonne Davies.",
+      "la:creatorImprint": "Davies, Yvonne, (St Asaph : Yvonne Davies, 1997.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995271896902419.0",
+      "@type": "la:Artwork",
+      "la:title": "I dynnu ar yr edau : Cyfansoddiadau buddugol Adrannau Llenyddol Eisteddfod yr Urdd 2022 a 2023 / golygwyd gan Twm Ebbsworth, Ciarán Eynon a Tegwen Bruce-Deans ; darluniau gan Lleucu Elisa.",
+      "la:creatorImprint": "Ebbsworth, Twm, ([Place of publication not identified] : Urdd Gobaith Cymru, 2023)"
+    },
+    {
+      "@id": "http://linkedart.eu/995292788002419.0",
+      "@type": "la:Artwork",
+      "la:title": "Eat the world : a collection of poems / by Marina Diamandis.",
+      "la:creatorImprint": "Diamandis, Marina, (Edinburgh : Canongate Books, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995237296302419.0",
+      "@type": "la:Artwork",
+      "la:title": "Pethau sy'n digwydd / Siôn Tomos Owen.",
+      "la:creatorImprint": "Owen, Siôn Tomos, (Sancler : Cyhoeddiadau Barddas, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995293236402419.0",
+      "@type": "la:Artwork",
+      "la:title": "Ceol na mara / Tadhg Mac Dhonnagain ; ceol le John Ryan ; maisithe ag Tarsila Krüse and Úna Woods.",
+      "la:creatorImprint": "Mac Dhonnagáin, Tadhg, (An Spidéal, Co. na Gaillimhe : Futa Fata, [2024])"
+    },
+    {
+      "@id": "http://linkedart.eu/995250285702419.0",
+      "@type": "la:Artwork",
+      "la:title": "A Heritage of Steel : Poems for Port Talbot.",
+      "la:creatorImprint": "(Port Talbot : Neath Port Talbot County Borough Council, 2002.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995293184402419.0",
+      "@type": "la:Artwork",
+      "la:title": "O Ffrwyth y Gangen Hon / Nia Morris.",
+      "la:creatorImprint": "Morais, Nia, ([S.l.] : Cyhoeddiadau Barddas, 2025.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178792702419",
+      "@type": "la:Artwork",
+      "la:title": "Me and Aaron Ramsey / [written and translated by] Manon Steffan Ros.",
+      "la:creatorImprint": "Steffan Ros, Manon, (Cardiff : Firefly Press, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995226139602419",
+      "@type": "la:Artwork",
+      "la:title": "Pêl-droed yn Nefyn : Hanes y Fictoria a'r Celtiaid / Ceiri Wyn.",
+      "la:creatorImprint": "Ceiri Wyn, (Nefyn : Ceiri Wyn, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995178889802419",
+      "@type": "la:Artwork",
+      "la:title": "Y Ddraig Lwcus = The Lucky Dragon / Amy Lalanne & NABU ; illustrators Marbin Macalino, Kristin Kahulugan, Myriam A. Jean, & NABU.",
+      "la:creatorImprint": "Lalanne, Amy, ([Wrexham] : Wrexham AFC, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995285797102419",
+      "@type": "la:Artwork",
+      "la:title": "Rhaglen = Programme / Gwŷl Bel-Droed Ieuenctid Tregaron Turfs = Tregaron Turfs Junior Football Festival.",
+      "la:creatorImprint": "(Tregaron : Tregaron F.C., 2018-)"
+    },
+    {
+      "@id": "http://linkedart.eu/995159909202419",
+      "@type": "la:Artwork",
+      "la:title": "FAW First Aid for Football Awareness Award : Resource Guide = Tystysgrif Ymwybyddiaeth Cymorth Cyntaf ar gyfer Pêl-droed Cymdeithas Pêl-droed Cymru : Llawlyfr / FAW Trust.",
+      "la:creatorImprint": "Welsh Football Trust, ([Wales] : FAW Trust, [2024])"
+    },
+    {
+      "@id": "http://linkedart.eu/995169950402419",
+      "@type": "la:Artwork",
+      "la:title": "Six Nations Rugby Championship broadcasting rights / Welsh Parliament, Culture, Communications, Welsh Language, Sport, and International Relations Committee = Hawliau darlledu Pencampwriaeth Rygbi'r Chwe Gwlad / Senedd Cymru, Y Pwyllgor Diwylliant, Cyfathrebu, y Gymraeg, Chwaraeon a Chysylltiadau Rhyngwladol.",
+      "la:creatorImprint": "Wales. Culture, Communications, Welsh Language, Sport, and International Relations Committee, (Bae Caerdydd : Senedd Cymru, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995077296202419",
+      "@type": "la:Artwork",
+      "la:title": "Six Nations.",
+      "la:creatorImprint": "Wales On-line. (Wales On-line, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995170007402419",
+      "@type": "la:Artwork",
+      "la:title": "The Long Road Back / Paul Davies.",
+      "la:creatorImprint": "Davies, Paul ([Cardiff?] : [Paul Davies], 2021.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995169607802419",
+      "@type": "la:Artwork",
+      "la:title": "Un gem, dwy stori / Sian Lewis.",
+      "la:creatorImprint": "Lewis, Siân, (Llanrwst : Gwasg Carreg Gwalch, 2024.)"
+    },
+    {
+      "@id": "http://linkedart.eu/995211178402419",
+      "@type": "la:Artwork",
+      "la:title": "Laugharne RFC 1893-1993 Centenary / by George Tremlett.",
+      "la:creatorImprint": "Tremlett, George, ([Laugharne] : Laugharne RFC, [1993])"
     }
   ]
 }

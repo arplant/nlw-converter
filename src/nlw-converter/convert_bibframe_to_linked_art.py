@@ -14,20 +14,11 @@ import json
 import sys
 from pathlib import Path
 
-try:
-    from rdflib import Namespace, Graph, URIRef, Literal, RDF
-except ImportError:
-    print("Error: rdflib is required. Install with: pip install rdflib")
-    sys.exit(1)
 
 
-# Linked Art namespace and vocabularies
-LINKED_ART = Namespace("http://linkedart.eu/")
-
-
-def convert_bibliography_csv_to_linked_art(input_dir: str, output_file: str) -> tuple[dict[str, int], list[dict]]:
+def convert_bibliography_csv_to_linked_art(input_dir: str) -> tuple[dict[str, int], list[dict]]:
     """Convert CSV files to Linked Art JSON format."""
-    
+
     input_path = Path(input_dir)
     results = {}
     
@@ -62,9 +53,9 @@ def convert_bibliography_csv_to_linked_art(input_dir: str, output_file: str) -> 
             all_records.extend(records)
         
         except Exception as e:
-                print(f"  Error processing '{filename}': {e}")
-    
-        return results, all_records
+            print(f"  Error processing '{filename}': {e}")
+
+    return results, all_records
 
 
 def csv_to_dict_records(csv_path: str) -> list[dict]:
@@ -77,26 +68,22 @@ def csv_to_dict_records(csv_path: str) -> list[dict]:
         
         for row in reader:
             mms_id = row.get('MMS ID', '').strip()
-            
+
             if not mms_id:
                 continue
-            
+
             title = row.get('Title', '').strip()
-            
+
             if not title:
                 continue
-            
+
             # Extract creator/imprint info (may contain commas)
             creator_imprint = ' '.join(row.get('Creator / Imprint', '').split())
-            subject = ' '.join(row.get('Subject', '').split())
-            language = row.get('Language', '')
-            
+
             records.append({
                 "mms_id": mms_id,
                 "title": title,
                 "creator_imprint": creator_imprint.strip(),
-                "subject": subject.strip() if subject else None,
-                "language": language
             })
     
     return records
@@ -104,13 +91,7 @@ def csv_to_dict_records(csv_path: str) -> list[dict]:
 
 def convert_to_linked_art_format(records: list[dict]) -> dict:
     """Convert records to proper Linked Art JSON-LD format."""
-    import traceback
-    
-    # Build the output directly as JSON-LD (rdflib's serialize expects a specific format)
-    print(f"DEBUG convert_to_linked_art_format - Input type: {type(records)}")
-    if isinstance(records, dict):
-        print("ERROR: Input is dict, but should be list!")
-    
+
     linked_art_data = {
         "@context": {
             "la": "http://linkedart.eu/vocab/",
@@ -166,19 +147,19 @@ if __name__ == "__main__":
     print("=" * 60)
     
     # Convert all files
-    results, all_records = convert_bibliography_csv_to_linked_art(args.input_dir, None)
-    
+    results, all_records = convert_bibliography_csv_to_linked_art(args.input_dir)
+
     total_records = sum(results.values())
     print(f"\nTotal records converted: {total_records}")
-    
+
     if total_records > 0:
         json_output_path = f"{args.input_dir}/linked-art-records.json"
-        
+
         linked_art_data = convert_to_linked_art_format(all_records)
-        
+
         with open(json_output_path, 'w', encoding='utf-8') as f:
             json.dump(linked_art_data, f, indent=2, ensure_ascii=False)
-        
+
         print(f"\nOutput written to '{json_output_path}'")
     else:
         print("\nNo records converted")

@@ -7,7 +7,7 @@ Many thanks to the National Library of Wales for their work and for providing th
 Datasets:
 -  [Bibliography of Welsh Printed Material](https://www.library.wales/catalogues-searching/catalogues/specialist-catalogues/bibliography-of-welsh-printed-material). Copyright NLW, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
 
-Code generation assisted by a local instance of qwen3.5:4b (d8b0f5e9760c).
+Code generation assisted by a local instance of qwen3.5:4b (d8b0f5e9760c) using Ollama and Claude Code harnesses.
 
 ## TODO
 The Linked Art conversion is based on a loose definition and needs to be corrected to fit the specification.
