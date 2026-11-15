@@ -93,29 +93,22 @@ def convert_to_linked_art_format(records: list[dict]) -> dict:
     """Convert records to proper Linked Art JSON-LD format."""
 
     linked_art_data = {
-        "@context": {
-            "la": "http://linkedart.eu/vocab/",
-            "@vocab": "http://linkedart.eu/"
-        },
+        "@context": "https://linkedart.eu/ns/v1/linked-art.json",
         "@graph": []
     }
     
     for record in records:
-        # Create an object entry
         obj = {
-            "@id": f"http://linkedart.eu/{record['mms_id']}",
-            "@type": "la:Artwork"
+            "id": f"https://linkedart.eu/{record['mms_id']}",
+            "type": "HumanMadeObject",
+            "_label": record.get("title", ""),
+            "title": record.get("title", ""),
+            "creatorImprint": record.get("creator_imprint", "")
         }
-        
-        if record.get("title"):
-            obj["la:title"] = record["title"]
-        if record.get("creator_imprint"):
-            obj["la:creatorImprint"] = record["creator_imprint"]
-        if record.get("subject"):
-            obj["la:subject"] = record["subject"]
-        if record.get("language"):
-            obj["la:language"] = record["language"]
-        
+        # Remove empty strings to keep payload tidy
+        for key in list(obj.keys()):
+            if obj[key] == "":
+                del obj[key]
         linked_art_data["@graph"].append(obj)
     
     return linked_art_data
@@ -153,7 +146,8 @@ if __name__ == "__main__":
     print(f"\nTotal records converted: {total_records}")
 
     if total_records > 0:
-        json_output_path = f"{args.input_dir}/linked-art-records.json"
+        # Write output to the user-specified file path
+        json_output_path = args.output_file
 
         linked_art_data = convert_to_linked_art_format(all_records)
 
